@@ -1,0 +1,38 @@
+.logo {
+  margin-left: 40%;
+  width: 200px;
+  height: auto;
+}
+
+body {
+  padding-top: 30px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.main-area {
+    padding-left: 20%;
+    padding-right: 20%;
+  }
+
+.sponsor-logos {
+	width:300px;
+	height:auto;
+}
+
+@media only screen and (max-width : 768px) {
+  .main-area {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .logo {
+    margin-left: 35%;
+    width: 30%;
+    height: auto;
+  }
+}
+
+
+
