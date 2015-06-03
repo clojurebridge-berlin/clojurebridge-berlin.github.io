@@ -1,0 +1,596 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+  <head><meta content="text/html;charset=UTF-8" http-equiv="content-type" />
+    <title>deck.rb presentation</title>
+    <meta charset="utf-8" />
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
+    <meta content="width=1024, user-scalable=no" name="viewport" />
+    <link href="/deck.js/core/deck.core.css" rel="stylesheet" />
+    <link href="/deck.js/extensions/goto/deck.goto.css" rel="stylesheet" />
+    <link href="/deck.js/extensions/menu/deck.menu.css" rel="stylesheet" />
+    <link href="/deck.js/extensions/navigation/deck.navigation.css" rel="stylesheet" />
+    <link href="/deck.js/extensions/status/deck.status.css" rel="stylesheet" />
+    <link href="/deck.js/extensions/hash/deck.hash.css" rel="stylesheet" />
+    <link href="/deck.js/extensions/scale/deck.scale.css" rel="stylesheet" />
+    <link href="/deck.js/themes/style/swiss.css" id="style-theme-link" rel="stylesheet" />
+    <link href="/deck.js/themes/transition/horizontal-slide.css" id="transition-theme-link" rel="stylesheet" />
+    <link href="/coderay.css" rel="stylesheet" />
+    <link href="/tables.css" rel="stylesheet" />
+    <link href="/toc.css" rel="stylesheet" />
+  </head>
+  <body class="deck-container">
+    <section class="slide" id="clojurebridge_coaches_training">
+<h1>ClojureBridge Coaches Training</h1>
+</section>
+    <section class="slide" id="todays_agenda">
+<h2>Today's Agenda</h2>
+
+<h3>Background and Practicalities</h3>
+
+<h3>Discussion Topics &amp; Coaching Tips</h3>
+
+</section>
+    <section class="slide" id="what_is_this">
+<h2>What is this?</h2>
+
+<p>You're probably at a coaches training for ClojureBridge.</p>
+
+<p>This slide deck is a tool to facilitate conversations about coaching best practices and challenges, specifically for ClojureBridge workshops.</p>
+
+<p>It helps to have a whiteboard or those giant sticky notes for the discussions if possible.</p>
+
+<h3>Discussion is key!</h3>
+
+<h3>Don't let the presenter(s) do all the talking!</h3>
+
+</section>
+    <section class="slide" id="why_clojurebridge">
+<h2>Why ClojureBridge?</h2>
+
+<p>We're making tech more diverse and more welcoming!</p>
+
+<h3>How?</h3>
+
+<ul>
+<li>We throw super-welcoming, fun, free workshops.</li>
+<li>We provide great networking opportunities for students and volunteers.</li>
+<li>We help our volunteers become more empathic and better communicators.</li>
+</ul>
+
+</section>
+    <section class="slide" id="introductions">
+<h2>Introductions</h2>
+
+<h3>Who are you?</h3>
+
+<ul>
+<li>What's your name?</li>
+<li>Have you been to a ClojureBridge or similar workshops before? How many?</li>
+<li>What do you do for a living? Care to share who you work for?</li>
+<li>What's your favorite place in Berlin?</li>
+<li>What's the most non-coding thing you do?</li>
+</ul>
+
+</section>
+    <section class="slide" id="whats_a_clojurebridge">
+<h2>What's a ClojureBridge?</h2>
+
+<p>Raise your hand if you've been to a workshop before!</p>
+
+<h3>RailsBridge Fun Facts</h3>
+
+<ul>
+<li>Founded in 2009</li>
+<li>Its goal: make the community more diverse and more welcoming to newcomers.</li>
+<li>Since 2012 backed by Bridge Foundry,</li>
+<li>Also does MobileBridge, ng-bridge, Teaching Kids, and ... ClojureBridge!</li>
+</ul>
+
+<h3>ClojureBridge</h3>
+
+<ul>
+<li>First workshop April 2014</li>
+<li>Since then 14 workshops in the US, Australia, Scotland, Finland, Sweden, and now Germany</li>
+</ul>
+
+</section>
+    <section class="slide" id="how_does_a_workshop_work">
+<h2>How does a workshop work?</h2>
+
+<p>There are a few different ClojureBridge curricula:</p>
+
+<p>First, we get all the necessary technologies onto the students' computers (the Installfest).</p>
+
+<p>The next day we break into small groups and work through the curriculum.</p>
+
+</section>
+    <section class="slide" id="typical_clojurebridge_schedule">
+<h2>Typical ClojureBridge Schedule</h2>
+
+<ul>
+<li><p>Friday, 6-10pm-ish: Installfest: installing software over pizza &amp; drinks</p></li>
+<li>
+<p>Saturday's schedule (details still being worked out)</p>
+
+<ul>
+<li>9-9:30am: Check-in, coffee, small breakfast</li>
+<li>9:30-10am: Opening presentation</li>
+<li>10am-12:30pm: Class!</li>
+<li>12:30-1:30pm: Lunch &amp; lightning talks</li>
+<li>1:30pm-4:30pm: Class! (with a break sometime mid-afternoon)</li>
+<li>4:30-5:00pm: Closing presentation &amp; retros</li>
+<li>5:00pm-...: Free to hang around and socialize</li>
+</ul>
+</li>
+</ul>
+
+</section>
+    <section class="slide" id="is_clojurebridge_open_source">
+<h2>Is ClojureBridge Open Source?</h2>
+
+<h3>WHY YES, THANK YOU FOR ASKING!</h3>
+
+<h3>CLOJUREBRIDGE IS VERY OPEN SOURCE!</h3>
+
+<p>All the materials you're using were created by volunteers, and are on GitHub for forking and editing and using!</p>
+
+<p>If you see something that could be better, make a pull request. Pull requests are the lifeblood of ClojureBridge.</p>
+
+<p>If you don't know how to make one, we'll help!</p>
+
+</section>
+    <section class="slide" id="discussion_topics">
+<h1>Discussion Topics</h1>
+</section>
+    <section class="slide" id="how_to_make_your_class_awesome">
+<h2>How to make your class awesome</h2>
+
+<p>We've made three quasi-arbitrary categories of ways to make your class awesome:</p>
+
+<h3>We want our students to feel:</h3>
+
+<ul>
+<li>socially comfortable</li>
+<li>technically capable</li>
+<li>like you are approachable and can help solve their problems</li>
+</ul>
+
+</section>
+    <section class="slide" id="discussion_social_comfort">
+<h2>Discussion: Social Comfort</h2>
+
+<h4>Imagine:</h4>
+
+<ul>
+<li>You're trying to do something difficult</li>
+<li>You're in a group of strangers, many of whom know how to do it better than you</li>
+<li>You've tried before but got lost or bored or confused</li>
+<li>You don't feel like you can articulate your thoughts and questions</li>
+<li>You don't know the right names for anything</li>
+</ul>
+
+<h4>When was the last time you felt this way?</h4>
+
+<h4>How can we help make this easier?</h4>
+
+<h4>How can you help people feel socially comfortable?</h4>
+
+</section>
+    <section class="slide" id="social_comfort_ideas">
+<h2>Social Comfort (Ideas)</h2>
+
+<h4>Introductions</h4>
+
+<ul>
+<li>Include name, profession, why are you here / goals for today's class, and something silly.</li>
+<li>Don't rush, even if you have a big class.</li>
+<li>If someone joins the class late, ask them to introduce themselves.</li>
+</ul>
+
+<h4>Icebreakers</h4>
+
+<ul>
+<li>Name games! Admit up front that most people are bad at learning new names.</li>
+<li>Get people talking. The more comfortable they are at talking, the more likely they'll speak up when they don't understand something, or to answer someone else's question.</li>
+</ul>
+
+</section>
+    <section class="slide" id="social_comfort_more_ideas">
+<h2>Social Comfort (More Ideas)</h2>
+
+<h4>Try to suppress your (understandable) culturally-influenced sexism</h4>
+
+<ul>
+<li>Don't hit on people. No sexual advances. None. Even at the after-party.</li>
+<li>Don't make sexist jokes. Or racist, classist, or ableist jokes. Call people out if they do. A simple "That's not funny" and moving on quickly with the conversation will often suffice.</li>
+<li>Don't make gender-based generalizations ("Women are better at X, because ...")</li>
+<li>Don't make references to people's bodies or state your opinion of them.</li>
+<li>Don't use slurs.</li>
+</ul>
+
+</section>
+    <section class="slide" id="social_comfort_even_more_ideas">
+<h2>Social Comfort (Even More Ideas)</h2>
+
+<h4>Represent the diverse and welcoming community we stand for</h4>
+
+<ul>
+<li>Don't mock other languages or technologies.</li>
+<li>Leave your nerdy flame wars at the door.</li>
+<li>Windows is fine. PHP is fine. Javascript is fine.</li>
+<li>Be genuinely interested in people's experiences. ("You built something? That's cool. What does it do?")</li>
+<li>Appreciate that different technologies have different trade-offs. Being easily accessible is one of them.</li>
+</ul>
+
+</section>
+    <section class="slide" id="discussion_technical_capability">
+<h2>Discussion: Technical Capability</h2>
+
+<h3>How can you help people feel technically capable?</h3>
+
+<h3>What kinds of insecurities might your student have?</h3>
+
+<h3>How can you bolster their confidence?</h3>
+
+</section>
+    <section class="slide" id="technical_capability_ideas">
+<h2>Technical Capability (Ideas)</h2>
+
+<h4>Being confused is normal</h4>
+
+<h4>Explore and have fun</h4>
+
+<h4>Define concepts</h4>
+
+<h4>Encourage interaction</h4>
+
+<h4>Be super positive</h4>
+
+<h4>Walk the middle path</h4>
+
+</section>
+    <section class="slide" id="technical_capability_ideas">
+<h2>Technical Capability (Ideas)</h2>
+
+<h4>Explain that</h4>
+
+<ul>
+<li>Not knowing stuff is normal, even the pros spend half their day googling</li>
+<li>If you keep at it it gets better, more quickly than you think</li>
+</ul>
+
+<h4>Remind them</h4>
+
+<ul>
+<li>No need to make things perfect. Just build stuff, have fun!</li>
+<li>Mistakes == Learning!</li>
+</ul>
+
+</section>
+    <section class="slide" id="technical_capability_ideas">
+<h2>Technical Capability (Ideas)</h2>
+
+<h4>Dealing with technical concepts</h4>
+
+<ul>
+<li>Define technical terms! Several times!</li>
+<li>Assume anyone you're coaching has zero knowledge but infinite intelligence.</li>
+<li>Remember people's backgrounds (Javascript, Ruby, Java, HTML/CSS,) and relate where possible.</li>
+<li>Don't be afraid to use metaphors. If they are a cook, try a cooking analogy.</li>
+</ul>
+
+</section>
+    <section class="slide" id="technical_capability_more_ideas">
+<h2>Technical Capability (More Ideas)</h2>
+
+<h4>Encourage collaboration and interaction</h4>
+
+<ul>
+<li>Explicitly encourage students to try to answer each other's questions.</li>
+<li>If a question is asked, ask if anyone in the class thinks they can explain.</li>
+<li>Be especially encouraging of the first few questions, to try to get things rolling.</li>
+<li>Good responses to questions: "I'm glad you asked!" or "I actually wondered that, too." or "Great question!"</li>
+</ul>
+
+</section>
+    <section class="slide" id="technical_capability_more_ideas">
+<h2>Technical Capability (More Ideas)</h2>
+
+<h4>Be Super Positive, Always</h4>
+
+<ul>
+<li>Students have diverse backgrounds. Appreciate this fact.</li>
+<li>If they aren't getting a concept, avoid anything that might shame them.</li>
+<li>Don't be surprised when someone hasn't heard of something before.</li>
+<li>Don't grab anyone's keyboard. Avoid taking over unless you think it's <em>really</em> necessary. Ask before you do. "Mind if I drive for a sec?" But really, don't.</li>
+</ul>
+
+</section>
+    <section class="slide" id="technical_capability_even_more_ideas">
+<h2>Technical Capability (Even More Ideas)</h2>
+
+<h4>Walk the Middle Path</h4>
+
+<ul>
+<li>Don't go too deep for your class level, but also, don't gloss over things.</li>
+<li>When trying to be accurate, it's easy to go down a rabbit hole of specificity. Avoid.</li>
+<li>Work with the co-coaches to make sure no one goes down that rabbit hole. Accountability!</li>
+<li>Explain the big picture of a command <em>before</em> they type it in.
+
+<ul>
+<li>i.e., before typing the command to deploy to Heroku, explain the difference between localhost and Heroku.</li>
+</ul>
+</li>
+</ul>
+
+</section>
+    <section class="slide" id="discussion_do_you_know_whats_up">
+<h2>Discussion (Do you know what's up?)</h2>
+
+<h4>How can you help people feel like you know what's going on?</h4>
+
+<h4>What are things you can do to help the students trust you?</h4>
+
+<h4>What are some things to avoid?</h4>
+
+</section>
+    <section class="slide" id="know_whats_up_ideas">
+<h2>Know What's Up (Ideas)</h2>
+
+<h4>Know what's going on</h4>
+
+<ul>
+<li>Cover logistics at the beginning of class
+
+<ul>
+<li>Planned breaks, lunch time</li>
+<li>Remind students that there is a closing presentation at the end</li>
+<li>Make sure they know where the bathroom is</li>
+<li>Let them know they can hang around and socialize afterwards</li>
+</ul>
+</li>
+</ul>
+
+</section>
+    <section class="slide" id="know_whats_up_ideas">
+<h2>Know What's Up (Ideas)</h2>
+
+<h4>Establish a few ground rules</h4>
+
+<ul>
+<li>Questions are always welcome, even if the student thinks it might be dumb. "That's a <strong>GREAT</strong> question"</li>
+<li>Explain that if someone has trouble (e.g., not getting the expected output), the coaches will help troubleshoot.</li>
+<li>If anyone wants to switch classes, tell them they should feel TOTALLY COMFORTABLE switching at any point.</li>
+<li>Breaks are a good time to have a look at what other groups are doing.</li>
+</ul>
+
+</section>
+    <section class="slide" id="know_whats_up_more_ideas">
+<h2>Know What's Up (More Ideas)</h2>
+
+<h4>Don't be afraid to:</h4>
+
+<ul>
+<li>Call on people! By name!</li>
+<li>Correct people if they're wrong. Be polite and encouraging. For instance:
+
+<ul>
+<li>"Well, this might work better and this is why."</li>
+<li>"Can you explain how you came to that conclusion?"</li>
+<li>"Does anyone have a different answer?"</li>
+<li>"Ah, I see what you're trying to do."</li>
+</ul>
+</li>
+<li>Ask yourself questions and answer them.</li>
+</ul>
+
+</section>
+    <section class="slide" id="know_whats_up_even_more_ideas">
+<h2>Know What's Up (Even More Ideas)</h2>
+
+<h4>Pace yourself!</h4>
+
+<ul>
+<li>Don't go too fast. You will probably go too fast. Check in occasionally to ensure everyone is still with you.</li>
+<li>You can say the same thing THREE TIMES and it will not be boring yet.</li>
+<li>When you ask a question, wait TEN WHOLE SECONDS before saying anything else. People need time to think.</li>
+<li>Don't let the most advanced students dictate the pacing or answer all the questions.</li>
+</ul>
+
+</section>
+    <section class="slide" id="discussion_challenges">
+<h2>Discussion: Challenges</h2>
+
+<p>Talk about what problems you might anticipate, and what to do about them.</p>
+
+<h4>Some issues:</h4>
+
+<ul>
+<li>Student is in the wrong class level</li>
+<li>Student is disruptive</li>
+<li>Student is disengaged</li>
+</ul>
+
+</section>
+    <section class="slide" id="build_a_team">
+<h2>Build a Team</h2>
+
+<ul>
+<li>ClojureBridge normally makes a distinction between coaches and TAs (teaching assistants).</li>
+<li>We will try to form groups with two coaches per group.</li>
+<li>You can decide on one coach to take the lead, or you can tag-team.</li>
+<li>There will also be some "floating" TAs that can go around ang help.</li>
+</ul>
+
+</section>
+    <section class="slide" id="discussion_coaching">
+<h2>Discussion: Coaching</h2>
+
+<h4>What are the benefits of having two coaches in a group?</h4>
+
+<h4>How can you divide the roles between the coaches?</h4>
+
+<h4>How can you get a good dynamic between the whole team, both attendees and coaches?</h4>
+
+</section>
+    <section class="slide" id="coaching_dynamics_ideas">
+<h2>Coaching Dynamics (Ideas)</h2>
+
+<ul>
+<li>Talk with your co-coach beforehand to set expectations</li>
+<li>It can make sense to have one person take the lead</li>
+<li>The other coach can give more individual assistance</li>
+<li>Swap these roles around if it makes sense. Find a healthy dynamic!</li>
+</ul>
+
+</section>
+    <section class="slide" id="cocoaching_some_ideas">
+<h2>Co-coaching (Some Ideas)</h2>
+
+<ul>
+<li>Both coaches can ask questions to encourage students to speak up.</li>
+<li>Ask your co-coach to explain a concept; they may be more technically advanced than you!</li>
+<li>Co-coaches can help people who get lost.</li>
+<li>If someone falls behind, the co-coach can take them aside to do some 1-on-1.</li>
+</ul>
+
+</section>
+    <section class="slide" id="discussion_comprehension">
+<h2>Discussion: Comprehension</h2>
+
+<h4>How can you tell if they understand the words you're saying?</h4>
+
+<h4>What are good questions to ask to check comprehension?</h4>
+
+<h4>What did your favorite coaches do to gauge understanding?</h4>
+
+</section>
+    <section class="slide" id="student_comprehension_some_ideas">
+<h2>Student Comprehension (Some Ideas)</h2>
+
+<ul>
+<li>Pay attention to body language.</li>
+<li>People ask questions most often when they are actively processing material. If they aren't, it might be that the material is too easy or hard. Try to figure out which it is!</li>
+</ul>
+
+<h4>Calling on people</h4>
+
+<ul>
+<li>Calling on people makes the class more interactive and engaging, and less lecture-y.</li>
+<li>Don't always ask questions to the whole class: call on individuals by name.</li>
+<li>Consider breaking the class into two teams and addressing questions to teams.</li>
+<li>Ask people what they expect a command to produce BEFORE you hit enter.</li>
+<li>Ask "How would you do #{this}?" or "If I wanted to do #{that}, what would I do?"</li>
+</ul>
+
+</section>
+    <section class="slide" id="installfest">
+<h2>Installfest!</h2>
+
+<h4>Keep in mind:</h4>
+
+<ul>
+<li>There will be people with <em>all</em> kinds of computers.</li>
+<li>Even though Windows is not an ideal Rails development environment, we're here to encourage people and meet them wherever they are right now.</li>
+<li>Do NOT say bad things about Windows, even if it's frustrating.</li>
+<li>If you're not sure about something, grab another volunteer.</li>
+</ul>
+
+</section>
+    <section class="slide" id="practical_recap">
+<h2>Practical Recap</h2>
+
+<p>Installfest: Friday <strong>10 July, 17:00</strong></p>
+
+<p>Workshop: Saturday <strong>11 July</strong>, doors open at <strong>9:00</strong>, starts at 9:30</p>
+
+<p> </p>
+
+<p>Location: <strong>6Wunderkinder office</strong></p>
+
+<p>Karl-Liebknecht-Straße 32</p>
+
+<p>Around the corner from <strong>Alexanderplatz</strong>.</p>
+
+<p> </p>
+
+<p>Don't forget: laptop, powercord</p>
+
+<p>Shower and brush your teeth in the morning (yes, unfortunately we have to say this).</p>
+
+</section>
+    <a class="deck-prev-link" href="#" title="Previous"></a><a class="deck-next-link" href="#" title="Next"></a>    <div class="slide_toc">      <div class="toggle">[contents]</div>
+      <div class="table">
+        <h2>deck.rb presentation</h2>
+        <ul>
+          <li><a href="#clojurebridge_coaches_training">ClojureBridge Coaches Training</a></li>
+          <li><a href="#todays_agenda">Today&#39;s Agenda</a></li>
+          <li><a href="#what_is_this">What is this?</a></li>
+          <li><a href="#why_clojurebridge">Why ClojureBridge?</a></li>
+          <li><a href="#introductions">Introductions</a></li>
+          <li><a href="#whats_a_clojurebridge">What&#39;s a ClojureBridge?</a></li>
+          <li><a href="#how_does_a_workshop_work">How does a workshop work?</a></li>
+          <li><a href="#typical_clojurebridge_schedule">Typical ClojureBridge Schedule</a></li>
+          <li><a href="#is_clojurebridge_open_source">Is ClojureBridge Open Source?</a></li>
+          <li><a href="#discussion_topics">Discussion Topics</a></li>
+          <li><a href="#how_to_make_your_class_awesome">How to make your class awesome</a></li>
+          <li><a href="#discussion_social_comfort">Discussion: Social Comfort</a></li>
+          <li><a href="#social_comfort_ideas">Social Comfort (Ideas)</a></li>
+          <li><a href="#social_comfort_more_ideas">Social Comfort (More Ideas)</a></li>
+          <li><a href="#social_comfort_even_more_ideas">Social Comfort (Even More Ideas)</a></li>
+          <li><a href="#discussion_technical_capability">Discussion: Technical Capability</a></li>
+          <li><a href="#technical_capability_ideas">Technical Capability (Ideas)</a></li>
+          <li><a href="#technical_capability_ideas">Technical Capability (Ideas)</a></li>
+          <li><a href="#technical_capability_ideas">Technical Capability (Ideas)</a></li>
+          <li><a href="#technical_capability_more_ideas">Technical Capability (More Ideas)</a></li>
+          <li><a href="#technical_capability_more_ideas">Technical Capability (More Ideas)</a></li>
+          <li><a href="#technical_capability_even_more_ideas">Technical Capability (Even More Ideas)</a></li>
+          <li><a href="#discussion_do_you_know_whats_up">Discussion (Do you know what&#39;s up?)</a></li>
+          <li><a href="#know_whats_up_ideas">Know What&#39;s Up (Ideas)</a></li>
+          <li><a href="#know_whats_up_ideas">Know What&#39;s Up (Ideas)</a></li>
+          <li><a href="#know_whats_up_more_ideas">Know What&#39;s Up (More Ideas)</a></li>
+          <li><a href="#know_whats_up_even_more_ideas">Know What&#39;s Up (Even More Ideas)</a></li>
+          <li><a href="#discussion_challenges">Discussion: Challenges</a></li>
+          <li><a href="#build_a_team">Build a Team</a></li>
+          <li><a href="#discussion_coaching">Discussion: Coaching</a></li>
+          <li><a href="#coaching_dynamics_ideas">Coaching Dynamics (Ideas)</a></li>
+          <li><a href="#cocoaching_some_ideas">Co-coaching (Some Ideas)</a></li>
+          <li><a href="#discussion_comprehension">Discussion: Comprehension</a></li>
+          <li><a href="#student_comprehension_some_ideas">Student Comprehension (Some Ideas)</a></li>
+          <li><a href="#installfest">Installfest!</a></li>
+          <li><a href="#practical_recap">Practical Recap</a></li>
+        </ul>
+      </div>
+    </div>
+    <p class="deck-status"><span class="deck-status-current"></span>/<span class="deck-status-total"></span></p>
+    <form action="." class="goto-form" method="get"><label for="goto-slide">Go to slide:</label><input id="goto-slide" list="goto-datalist" name="slidenum" type="text" />
+      <datalist id="goto-datalist"></datalist>
+      <input type="submit" value="Go" /></form>
+    <a class="deck-permalink" href="." title="Permalink to this slide">#</a>
+    <script src="/deck.js/modernizr.custom.js"></script>
+    <script src="/deck.js/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript">
+// <![CDATA[
+
+jQuery(document).ready(function($){
+    $('.slide_toc .toggle').click(function(){
+      $('.slide_toc .table').toggle();
+    });
+
+});
+// ]]>
+    </script>
+    
+<!--Deck Core and extensions-->
+
+    <script src="/deck.js/core/deck.core.js" type="text/javascript"></script>
+    <script src="/deck.js/extensions/goto/deck.goto.js" type="text/javascript"></script>
+    <script src="/deck.js/extensions/menu/deck.menu.js" type="text/javascript"></script>
+    <script src="/deck.js/extensions/navigation/deck.navigation.js" type="text/javascript"></script>
+    <script src="/deck.js/extensions/status/deck.status.js" type="text/javascript"></script>
+    <script src="/deck.js/extensions/hash/deck.hash.js" type="text/javascript"></script>
+    <script src="/deck.js/extensions/scale/deck.scale.js" type="text/javascript"></script>
+    <script>$(function(){$.deck('.slide');});</script>
+  </body>
+</html>
