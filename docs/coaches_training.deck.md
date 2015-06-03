@@ -1,80 +1,95 @@
-# RailsBridge Teacher Training
+# ClojureBridge Coaches Training
+
+# Today's Agenda
+
+### Background and Practicalities
+
+### Discussion Topics & Coaching Tips
 
 # What is this?
 
-You're probably at a teacher training for RailsBridge.
+You're probably at a coaches training for ClojureBridge.
 
-This slide deck is a tool to facilitate conversations about teaching best practices and challenges, specifically for RailsBridge workshops.
+This slide deck is a tool to facilitate conversations about coaching best practices and challenges, specifically for ClojureBridge workshops.
 
 It helps to have a whiteboard or those giant sticky notes for the discussions if possible.
 
 ### Discussion is key!
 ### Don't let the presenter(s) do all the talking!
 
-# Why RailsBridge?
+# Why ClojureBridge?
 We're making tech more diverse and more welcoming!
 
 ### How?
 * We throw super-welcoming, fun, free workshops.
-* We provide hella networking opportunities for students and volunteers.
-* We help our volunteers become more empathetic and better communicators.
+* We provide great networking opportunities for students and volunteers.
+* We help our volunteers become more empathic and better communicators.
 
 # Introductions
 ### Who are you?
 * What's your name?
-* Have you been to a RailsBridge before? How many?
+* Have you been to a ClojureBridge or similar workshops before? How many?
 * What do you do for a living? Care to share who you work for?
-* What's your favorite structure in the Bay Area?
-* Alternate silly questions:
- * What's your favorite animal?
- * If you could only eat one food for the rest of your life, what would it be?
+* What's your favorite place in Berlin?
+* What's the most non-coding thing you do?
 
-# What's a RailsBridge?
+# What's a ClojureBridge?
+
 Raise your hand if you've been to a workshop before!
 
 ### RailsBridge Fun Facts
-* Founded in 2009 as a variety of initiatives, including Rails Mentors, Rails Bug Smashes, and the Open Workshop Project.
-* The workshops project was led by Sarah Allen and Sarah Mei.
-* Its goal: make the Rails community more diverse and more welcoming to newcomers.
-* Workshops are happening all over the world!
+
+* Founded in 2009
+* Its goal: make the community more diverse and more welcoming to newcomers.
+* Since 2012 backed by Bridge Foundry,
+* Also does MobileBridge, ng-bridge, Teaching Kids, and ... ClojureBridge!
+
+### ClojureBridge
+
+* First workshop April 2014
+* Since then 14 workshops in the US, Australia, Scotland, Finland, Sweden, and now Germany
 
 # How does a workshop work?
-There are a few different RailsBridge curricula:
 
-* Intro to Rails (a.k.a. "Suggestotron")
-* Job Board (no scaffolds)
-* Message Board (doesn't tell you what to type)
-* Intro to Ruby
-* Front End (HTML, CSS, and a tiny bit of JavaScript).
+There are a few different ClojureBridge curricula. We will pick one.
 
 First, we get all the necessary technologies onto the students' computers (the Installfest).
 
 The next day we break into small groups and work through the curriculum.
 
-# Typical RailsBridge Schedule
-* Friday, 6-10pm-ish: Installfest: installing software over pizza & beer (no formal presentations)
+# Installfest!
+#### Keep in mind:
+* There will be people with _all_ kinds of computers.
+* Even though Windows is not an ideal Rails development environment, we're here to encourage people and meet them wherever they are right now.
+* Do NOT say bad things about Windows, even if it's frustrating.
+* If you're not sure about something, grab another volunteer.
 
-	_n.b.: the Front End workshop doesn't usually have an Installfest._
+# Typical ClojureBridge Schedule
 
-* Saturday's schedule, often:
- * 9-9:30am: Check-in, coffee, bagels
+* Friday, 6-10pm-ish: Installfest: installing software over pizza & drinks
+
+* Saturday's schedule (details still being worked out)
+
+ * 9-9:30am: Check-in, coffee, small breakfast
  * 9:30-10am: Opening presentation
  * 10am-12:30pm: Class!
- * 12:30-1:30pm: Lunch
+ * 12:30-1:30pm: Lunch & lightning talks
  * 1:30pm-4:30pm: Class! (with a break sometime mid-afternoon)
  * 4:30-5:00pm: Closing presentation & retros
- * 5:00pm-late: After-party
+ * 5:00pm-...: Free to hang around and socialize
 
-# Is RailsBridge Open Source?
+# Is ClojureBridge Open Source?
 
 ### WHY YES, THANK YOU FOR ASKING!
-### RAILSBRIDGE IS VERY OPEN SOURCE!
+### CLOJUREBRIDGE IS VERY OPEN SOURCE!
 
 All the materials you're using were created by volunteers, and are on GitHub for forking and editing and using!
 
-If you see something that could be better, make a pull request. Pull requests are the lifeblood of RailsBridge.
+If you see something that could be better, make a pull request. Pull requests are the lifeblood of ClojureBridge.
 
 If you don't know how to make one, we'll help!
+
+# Discussion Topics
 
 # How to make your class awesome
 We've made three quasi-arbitrary categories of ways to make your class awesome:
@@ -117,21 +132,46 @@ We've made three quasi-arbitrary categories of ways to make your class awesome:
 * Don't make references to people's bodies or state your opinion of them.
 * Don't use slurs.
 
+# Social Comfort (Even More Ideas)
+#### Represent the diverse and welcoming community we stand for
+* Don't mock other languages or technologies.
+* Leave your nerdy flame wars at the door.
+* Windows is fine. PHP is fine. Javascript is fine.
+* Be genuinely interested in people's experiences. ("You built something? That's cool. What does it do?")
+* Appreciate that different technologies have different trade-offs. Being easily accessible is one of them.
+
 # Discussion: Technical Capability
 ### How can you help people feel technically capable?
 ### What kinds of insecurities might your student have?
 ### How can you bolster their confidence?
 
 # Technical Capability (Ideas)
-#### Explain that:
-* Even professional developers are constantly learning new technologies, so being confused is normal.
-* Initial code is often terrible: don't feel bad, just refactor!
+
+#### Being confused is normal
+#### Explore and have fun
+#### Define concepts
+#### Encourage interaction
+#### Be super positive
+#### Walk the middle path
+
+# Technical Capability (Ideas)
+
+#### Explain that
+* Not knowing stuff is normal, even the pros spend half their day googling
+* If you keep at it it gets better, more quickly than you think
+
+#### Remind them
+* No need to make things perfect. Just build stuff, have fun!
 * Mistakes == Learning!
 
-#### Dealing with technical concepts:
+# Technical Capability (Ideas)
+
+#### Dealing with technical concepts
+
 * Define technical terms! Several times!
-* Assume anyone you're teaching has zero knowledge but infinite intelligence.
-* Remember people's professional and code backgrounds (QA, DBA, C++, Java, JS) and relate where possible.  If they are a cook, try a cooking analogy.
+* Assume anyone you're coaching has zero knowledge but infinite intelligence.
+* Remember people's backgrounds (Javascript, Ruby, Java, HTML/CSS,) and relate where possible.
+* Don't be afraid to use metaphors. If they are a cook, try a cooking analogy.
 
 # Technical Capability (More Ideas)
 #### Encourage collaboration and interaction
@@ -140,6 +180,8 @@ We've made three quasi-arbitrary categories of ways to make your class awesome:
 * Be especially encouraging of the first few questions, to try to get things rolling.
 * Good responses to questions: "I'm glad you asked!" or "I actually wondered that, too." or "Great question!"
 
+# Technical Capability (More Ideas)
+
 #### Be Super Positive, Always
 * Students have diverse backgrounds. Appreciate this fact.
 * If they aren't getting a concept, avoid anything that might shame them.
@@ -147,14 +189,16 @@ We've made three quasi-arbitrary categories of ways to make your class awesome:
 * Don't grab anyone's keyboard. Avoid taking over unless you think it's *really* necessary. Ask before you do. "Mind if I drive for a sec?" But really, don't.
 
 # Technical Capability (Even More Ideas)
+
 #### Walk the Middle Path
 * Don't go too deep for your class level, but also, don't gloss over things.
 * When trying to be accurate, it's easy to go down a rabbit hole of specificity. Avoid.
-* Work with the TAs to make sure no one goes down that rabbit hole. Accountability!
+* Work with the co-coaches to make sure no one goes down that rabbit hole. Accountability!
 * Explain the big picture of a command *before* they type it in.
   * i.e., before typing the command to deploy to Heroku, explain the difference between localhost and Heroku.
 
 # Discussion (Do you know what's up?)
+
 #### How can you help people feel like you know what's going on?
 #### What are things you can do to help the students trust you?
 #### What are some things to avoid?
@@ -165,12 +209,14 @@ We've made three quasi-arbitrary categories of ways to make your class awesome:
   * Planned breaks, lunch time
   * Remind students that there is a closing presentation at the end
   * Make sure they know where the bathroom is
-  * Encourage them to attend the after-party
+  * Let them know they can hang around and socialize afterwards
 
+# Know What's Up (Ideas)
 #### Establish a few ground rules
-* Questions are always welcome, even if the student thinks it might be dumb.
-* Explain that if someone has trouble (e.g., not getting the expected output), the TAs will help troubleshoot.
+* Questions are always welcome, even if the student thinks it might be dumb. "That's a **GREAT** question"
+* Explain that if someone has trouble (e.g., not getting the expected output), the coaches will help troubleshoot.
 * If anyone wants to switch classes, tell them they should feel TOTALLY COMFORTABLE switching at any point.
+* Breaks are a good time to have a look at what other groups are doing.
 
 # Know What's Up (More Ideas)
 #### Don't be afraid to:
@@ -179,6 +225,7 @@ We've made three quasi-arbitrary categories of ways to make your class awesome:
   * "Well, this might work better and this is why."
   * "Can you explain how you came to that conclusion?"
   * "Does anyone have a different answer?"
+  * "Ah, I see what you're trying to do."
 * Ask yourself questions and answer them.
 
 # Know What's Up (Even More Ideas)
@@ -195,29 +242,37 @@ Talk about what problems you might anticipate, and what to do about them.
 * Student is in the wrong class level
 * Student is disruptive
 * Student is disengaged
-* TA is not helping
 
-# What's a TA?
+# Build a Team
 
-* At RailsBridge, a TA is a volunteer who isn't leading the class.
-* If you're volunteering at your first RailsBridge workshop, you should probably be a TA.
-* Sometimes they are the technical experts (rather than the teacher), sometimes not.
-* TAs often explain specific concepts for the class or teach a couple of sections to give the teacher a break from talking.
+* ClojureBridge normally makes a distinction between coaches and TAs (teaching assistants).
+* We will try to form groups with two coaches per group.
+* You can decide on one coach to take the lead, or you can tag-team.
+* There will also be some "floating" TAs that can go around ang help.
 
-# Discussion: TAs
-#### TAs: How can you best utilize the AWESOME POWER that is a TA?
+# Discussion: Coaching
 
-# TAs (Some Ideas)
-* TAs can ask questions to encourage students to speak up.
-* Ask your TA to explain a concept; they may be more technically advanced than you!
-* TAs can help people who get lost.
-* Co-teaching is also an option if you feel like you can tag-team. There doesn't have to be a hierarchy.
-* If someone falls behind, the TA can take them out of the room to do some 1-on-1, if there's another TA in the room.
+#### What are the benefits of having two coaches in a group?
+#### How can you divide the roles between the coaches?
+#### How can you get a good dynamic between the whole team, both attendees and coaches?
+
+# Coaching Dynamics (Ideas)
+
+* Talk with your co-coach beforehand to set expectations
+* It can make sense to have one person take the lead
+* The other coach can give more individual assistance
+* Swap these roles around if it makes sense. Find a healthy dynamic!
+
+# Co-coaching (Some Ideas)
+* Both coaches can ask questions to encourage students to speak up.
+* Ask your co-coach to explain a concept; they may be more technically advanced than you!
+* Co-coaches can help people who get lost.
+* If someone falls behind, the co-coach can take them aside to do some 1-on-1.
 
 # Discussion: Comprehension
 #### How can you tell if they understand the words you're saying?
 #### What are good questions to ask to check comprehension?
-#### What did your favorite teachers do to gauge understanding?
+#### What did your favorite coaches do to gauge understanding?
 
 # Student Comprehension (Some Ideas)
 * Pay attention to body language.
@@ -230,22 +285,24 @@ Talk about what problems you might anticipate, and what to do about them.
 * Ask people what they expect a command to produce BEFORE you hit enter.
 * Ask "How would you do \#\{this\}?" or "If I wanted to do \#\{that\}, what would I do?"
 
-# Installfest!
-#### Keep in mind:
-* There will be people with _all_ kinds of computers.
-* Even though Windows is not an ideal Rails development environment, we're here to encourage people and meet them wherever they are right now.
-* Do NOT say bad things about Windows, even if it's frustrating.
-* If you're not sure about something, grab another volunteer.
+# Practical Recap
 
-# Very Important, Very Practical Things
-#### Where to find the curriculum: http://docs.railsbridge.org
+Installfest: Friday **10 July, 17:00**
 
-You need to read the curriculum through, beginning to end, before teaching it.
+Workshop: Saturday **11 July**, doors open at **9:00**, starts at 9:30
 
-First workshop? Be a TA!
+&nbsp;
 
-#### Where to submit pull requests: https://github.com/railsbridge/docs
+Location: **6Wunderkinder office**
 
-#### How to submit pull requests: http://railsbridge.github.io/bridge_troll/
+Karl-Liebknecht-Straße 32
 
-We need your help! Thank you!!!
+Around the corner from **Alexanderplatz**.
+
+&nbsp;
+
+Don't forget: laptop, powercord
+
+Go through the curriculum at home.
+
+Shower and brush your teeth in the morning (yes, unfortunately we have to say this).
