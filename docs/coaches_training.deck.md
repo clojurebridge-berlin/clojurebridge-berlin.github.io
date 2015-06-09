@@ -305,4 +305,4 @@ Don't forget: laptop, powercord
 
 Go through the curriculum at home.
 
-Shower and brush your teeth in the morning (yes, unfortunately we have to say this).
+Be a gentleman.
