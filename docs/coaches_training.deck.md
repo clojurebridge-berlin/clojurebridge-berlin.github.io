@@ -51,15 +51,18 @@ Raise your hand if you've been to a workshop before!
 
 # How does a workshop work?
 
-There are a few different ClojureBridge curricula. We will pick one.
+On Friday, we get all the necessary technologies onto the students' computers (the Installfest).
 
-First, we get all the necessary technologies onto the students' computers (the Installfest).
+The next day we start with a general introduction, then break into small groups and work through the curriculum, with some talks and breaks in between.
 
-The next day we break into small groups and work through the curriculum.
+We follow the official curriculum, which starts with a step by step tutorial of Clojure, followed by an easy and a more advanced Quill app. If you have a more advanced group you can move through the first part more quickly. You get as far as you get, don't rush to "finish" things.
 
 # Installfest!
 
+We recommend Cursive as editor. Of course if people have their own preference then that's fine.
+
 #### Keep in mind:
+
 * There will be people with _all_ kinds of computers.
 * Even though Windows might not be your preferred development environment, we're here to encourage people and meet them wherever they are right now.
 * Do NOT say bad things about Windows, even if it's frustrating.
