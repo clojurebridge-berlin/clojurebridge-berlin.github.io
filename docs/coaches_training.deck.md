@@ -58,9 +58,10 @@ First, we get all the necessary technologies onto the students' computers (the I
 The next day we break into small groups and work through the curriculum.
 
 # Installfest!
+
 #### Keep in mind:
 * There will be people with _all_ kinds of computers.
-* Even though Windows is not an ideal Rails development environment, we're here to encourage people and meet them wherever they are right now.
+* Even though Windows might not be your preferred development environment, we're here to encourage people and meet them wherever they are right now.
 * Do NOT say bad things about Windows, even if it's frustrating.
 * If you're not sure about something, grab another volunteer.
 
@@ -304,5 +305,3 @@ Around the corner from **Alexanderplatz**.
 Don't forget: laptop, powercord
 
 Go through the curriculum at home.
-
-Be a gentleman.
