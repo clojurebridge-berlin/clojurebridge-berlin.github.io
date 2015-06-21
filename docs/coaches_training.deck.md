@@ -23,7 +23,7 @@ We're making tech more diverse and more welcoming!
 ### How?
 * We throw super-welcoming, fun, free workshops.
 * We provide great networking opportunities for students and volunteers.
-* We help our volunteers become more empathic and better communicators.
+* We help our volunteers become more empathatic and better communicators.
 
 # Introductions
 ### Who are you?
@@ -96,11 +96,15 @@ If you don't know how to make one, we'll help!
 # Discussion Topics
 
 # How to make your class awesome
-We've made three quasi-arbitrary categories of ways to make your class awesome:
-### We want our students to feel:
-* socially comfortable
-* technically capable
-* like you are approachable and can help solve their problems
+
+How to make your class awesome? We created some arbitrary categories for discussion. We'll go through each one, and get input from the group (whiteboard \o/), and then provide some additional ideas and suggestions.
+
+### Social Comfort
+### Technical Capability
+### Do you know what's up?
+### Challenges
+### Coaching
+### Comprehension
 
 # Discussion: Social Comfort
 
@@ -112,10 +116,10 @@ We've made three quasi-arbitrary categories of ways to make your class awesome:
 * You don't know the right names for anything
 
 #### When was the last time you felt this way?
-
 #### How can we help make this easier?
 #### How can you help people feel socially comfortable?
 
+DISCUSS!
 
 # Social Comfort (Ideas)
 
@@ -148,6 +152,8 @@ We've made three quasi-arbitrary categories of ways to make your class awesome:
 ### How can you help people feel technically capable?
 ### What kinds of insecurities might your student have?
 ### How can you bolster their confidence?
+
+DISCUSS!
 
 # Technical Capability (Ideas)
 
@@ -207,6 +213,8 @@ We've made three quasi-arbitrary categories of ways to make your class awesome:
 #### What are things you can do to help the students trust you?
 #### What are some things to avoid?
 
+DISCUSS!
+
 # Know What's Up (Ideas)
 #### Know what's going on
 * Cover logistics at the beginning of class
@@ -247,18 +255,22 @@ Talk about what problems you might anticipate, and what to do about them.
 * Student is disruptive
 * Student is disengaged
 
-# Build a Team
-
-* ClojureBridge normally makes a distinction between coaches and TAs (teaching assistants).
-* We will try to form groups with two coaches per group.
-* You can decide on one coach to take the lead, or you can tag-team.
-* There will also be some "floating" TAs that can go around ang help.
+DISCUSS!
 
 # Discussion: Coaching
 
 #### What are the benefits of having two coaches in a group?
 #### How can you divide the roles between the coaches?
 #### How can you get a good dynamic between the whole team, both attendees and coaches?
+
+DISCUSS!
+
+# Build a Team
+
+* ClojureBridge normally makes a distinction between coaches and TAs (teaching assistants).
+* We will try to form groups with two coaches per group.
+* You can decide on one coach to take the lead, or you can tag-team.
+* There will also be some "floating" TAs that can go around ang help.
 
 # Coaching Dynamics (Ideas)
 
@@ -274,11 +286,14 @@ Talk about what problems you might anticipate, and what to do about them.
 * If someone falls behind, the co-coach can take them aside to do some 1-on-1.
 
 # Discussion: Comprehension
+
 #### How can you tell if they understand the words you're saying?
 #### What are good questions to ask to check comprehension?
 #### What did your favorite coaches do to gauge understanding?
 
-# Student Comprehension (Some Ideas)
+DISCUSS!
+
+# Student Comprehension
 * Pay attention to body language.
 * People ask questions most often when they are actively processing material. If they aren't, it might be that the material is too easy or hard. Try to figure out which it is!
 
