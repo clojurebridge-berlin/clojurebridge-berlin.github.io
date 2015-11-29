@@ -1,5 +1,5 @@
 ---
-layout: new_design_with_container
+layout: default_with_container
 title: Sponsor Us
 permalink: /sponsor-us/
 ---
