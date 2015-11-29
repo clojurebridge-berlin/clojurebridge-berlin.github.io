@@ -1,3 +1,9 @@
+---
+layout: new_design_with_container
+title: Sponsor Us
+permalink: /sponsor-us/
+---
+
 # Sponsor Us
 
 ClojureBridge Berlin organizes free programming workshops for members of

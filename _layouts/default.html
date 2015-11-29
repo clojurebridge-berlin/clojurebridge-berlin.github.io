@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>{% if page.title %}{{ page.title }} - {% endif %}ClojureBridge Berlin</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+  </head>
+
+  <div class="header_image">
+    <h1 class="main_heading">ClojureBridge Berlin</h1>
+    <a href="http://www.clojurebridge.org/"><img class="logo" src="/images/logo.png"></a>
+  </div>
+
+  <body>
+
+    <div class="main-area">
+      {{ content }}
+    </div>
+
+  </body>
+
+</html>
