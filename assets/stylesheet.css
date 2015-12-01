@@ -61,11 +61,24 @@ section.module.parallax-4 {
   opacity: 0.9;
 }
 
+/* Override Bootstrap */
+.btn {
+  margin-bottom: 10px;
+}
+
+.apply-now {
+  padding-bottom: 20px;
+}
+
 /* SCREEN: Font sizes & height pictures */
 @media all and (min-width: 600px) {
 
   p {
     text-align: justify;
+  }
+
+  .middle {
+    text-align: center;
   }
 
   section.module.parallax {
@@ -100,6 +113,16 @@ section.module.parallax-4 {
     left: 39%;
     width: 20%;
   }
+  .coach-button {
+    padding-left: 80px;
+    padding-right: 80px;
+  }
+}
+
+@media all and (max-width: 767px) {
+  .btn {
+    width: 100%;
+  }
 }
 
 @media all and (max-width: 600px) {
@@ -117,10 +140,12 @@ section.module.parallax-4 {
     left: 30%;
     width: 40%;
   }
-
-  /* Override Bootstrap */
   .btn {
     width: 100%;
-    margin-bottom: 10px;
+  }
+
+  .apply-now {
+    padding-left: 15px;
   }
 }
+
