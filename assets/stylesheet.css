@@ -1,7 +1,3 @@
-p {
-  text-align: justify;
-}
-
 h1, h2 {
   text-align: center;
 }
@@ -68,6 +64,10 @@ section.module.parallax-4 {
 /* SCREEN: Font sizes & height pictures */
 @media all and (min-width: 600px) {
 
+  p {
+    text-align: justify;
+  }
+
   section.module.parallax {
     background-attachment: fixed;   /* HERE IS THE MAGIC*/
     background-position: 50% 50%;
@@ -100,10 +100,10 @@ section.module.parallax-4 {
     left: 39%;
     width: 20%;
   }
-
 }
 
 @media all and (max-width: 600px) {
+
   section.module.parallax {
     background-position: 50% 50%;
     background-size: cover;
@@ -116,5 +116,11 @@ section.module.parallax-4 {
     margin-top: 5%;
     left: 30%;
     width: 40%;
+  }
+
+  /* Override Bootstrap */
+  .btn {
+    width: 100%;
+    margin-bottom: 10px;
   }
 }
