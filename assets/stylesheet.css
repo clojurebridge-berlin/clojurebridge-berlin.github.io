@@ -31,13 +31,6 @@ section.module.content {
   padding-bottom: 5%;
 }
 
-.logo {
-  position: relative;
-  margin-top: 10%;
-  left: 39%;
-  width: 20%;
-}
-
 .team {
   margin-left: 15%;
   border-radius: 50%;
@@ -100,6 +93,14 @@ section.module.parallax-4 {
     margin-left: 45%;
     visibility: visible;
   }
+
+  .logo {
+    position: relative;
+    margin-top: 5%;
+    left: 39%;
+    width: 20%;
+  }
+
 }
 
 @media all and (max-width: 600px) {
@@ -108,5 +109,12 @@ section.module.parallax-4 {
     background-size: cover;
     background-repeat: no-repeat;
     height: 200px;
+  }
+
+  .logo {
+    position: relative;
+    margin-top: 5%;
+    left: 30%;
+    width: 40%;
   }
 }
