@@ -71,6 +71,12 @@ section.module.parallax-4 {
   font-size: 16px;
 }
 
+.apply-box {
+  padding-top: 10px;
+  border-style: dotted;
+  border-color: #5cb85c;
+}
+
 /* SCREEN: Font sizes & height pictures */
 @media all and (min-width: 600px) {
 
@@ -115,6 +121,7 @@ section.module.parallax-4 {
     width: 20%;
   }
   .coach-button {
+    margin-left: 2%;
     padding-left: 80px;
     padding-right: 80px;
   }
