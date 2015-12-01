@@ -68,6 +68,7 @@ section.module.parallax-4 {
 
 .apply-now {
   padding-bottom: 20px;
+  font-size: 16px;
 }
 
 /* SCREEN: Font sizes & height pictures */
@@ -109,7 +110,7 @@ section.module.parallax-4 {
 
   .logo {
     position: relative;
-    margin-top: 5%;
+    margin-top: 3%;
     left: 39%;
     width: 20%;
   }
