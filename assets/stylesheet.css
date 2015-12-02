@@ -17,7 +17,7 @@ section.module h2 {
 }
 
 section.module p {
-  margin-bottom: 5%;
+  margin-bottom: 3%;
   font-size: 16px;
   font-weight: 300;
 }
@@ -84,9 +84,9 @@ section.module.parallax-4 {
 
 @media all and (min-width: 600px) {
 
-  p {
+/*  p {
     text-align: justify;
-  }
+  }*/
 
   section.module.parallax {
     background-attachment: fixed;   /* HERE IS THE MAGIC*/
