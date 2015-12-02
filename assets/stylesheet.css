@@ -49,13 +49,17 @@ section.module.content {
 
 .sponsor-area {
   padding-top: 5%;
-  padding-bottom: 10%;§
+  padding-bottom: 5%;
 }
 
 .sponsor-logo {
   width: 16%;
   float: left;
   padding-right: 2%;
+}
+
+.host-area {
+  padding-bottom: 10%;
 }
 
 /* Here are the pictures */
@@ -154,7 +158,8 @@ section.module.parallax-4 {
   }
 
   .sponsor-logo {
-    width: 100%;
+    width: 80%;
+    padding-left: 20%;
   }
 }
 
