@@ -27,6 +27,10 @@ section.module.content {
   padding-bottom: 1%;
 }
 
+.centered {
+  text-align: center;
+}
+
 .team {
   margin-left: 15%;
   border-radius: 50%;
