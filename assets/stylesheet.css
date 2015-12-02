@@ -43,6 +43,17 @@ section.module.content {
   width: 100%
 }
 
+.sponsor-area {
+  padding-top: 5%;
+  padding-bottom: 10%;§
+}
+
+.sponsor-logo {
+  width: 16%;
+  float: left;
+  padding-right: 2%;
+}
+
 /* Here are the pictures */
 section.module.parallax-1 {
   background-image: url("/images/cb1.jpg");
@@ -136,6 +147,10 @@ section.module.parallax-4 {
     margin-top: 5%;
     left: 30%;
     width: 40%;
+  }
+
+  .sponsor-logo {
+    width: 100%;
   }
 }
 
