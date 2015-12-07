@@ -61,6 +61,9 @@ section.module.content {
 .host-area {
   padding-bottom: 10%;
 }
+.host-area a:hover {
+  text-decoration: none;
+}
 
 .bottom-space {
   padding-bottom: 5%;
