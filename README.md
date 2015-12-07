@@ -12,3 +12,19 @@ The source document lives under `docs/coaches_training.deck.md`. To recreate the
 gem install deckrb
 deck -b docs/coaches_training.deck.md
 ```
+
+## Contribute
+
+How to get started:
+```
+git clone git@github.com:clojurebridge-berlin/clojurebridge-berlin.github.io.git
+cd clojurebridge-berlin.github.io
+git pull
+jekyll serve
+```
+Maybe you have to install Jekyll if the last command doesn't work.
+```
+gem install jekyll
+```
+In your browser go to:
+http://localhost:4000/
