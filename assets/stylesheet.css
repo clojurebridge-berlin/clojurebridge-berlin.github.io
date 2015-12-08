@@ -127,10 +127,6 @@ section.module.parallax-4 {
 
 @media all and (min-width: 600px) {
 
-/*  p {
-    text-align: justify;
-  }*/
-
   section.module.parallax {
     background-attachment: fixed;   /* HERE IS THE MAGIC*/
     background-position: 50% 50%;
@@ -149,6 +145,11 @@ section.module.parallax-4 {
 
   section.module p {
     font-size: 18px;
+  }
+
+  li {
+    font-size: 18px;
+    font-weight: 300;
   }
 
   .arrow {
