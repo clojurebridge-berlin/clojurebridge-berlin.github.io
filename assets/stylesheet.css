@@ -166,7 +166,7 @@ section.module.parallax-4 {
   }
 }
 
-@media all and (max-width: 600px) {
+@media all and (max-width: 600px) and (orientation: portrait) {
 
   section.module.parallax {
     background-position: 50% 50%;
