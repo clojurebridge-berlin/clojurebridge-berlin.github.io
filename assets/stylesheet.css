@@ -204,3 +204,12 @@ section.module.parallax-4 {
   }
 }
 
+@media all and (max-width: 600px) and (orientation: portrait) {
+  .logo {
+    position: relative;
+    margin-top: 5%;
+    left: 30%;
+    width: 40%;
+  }
+}
+
