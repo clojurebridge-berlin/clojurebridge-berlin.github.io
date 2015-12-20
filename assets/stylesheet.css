@@ -125,7 +125,7 @@ section.module.parallax-4 {
 
 /* MEDIA QUERIES */
 
-@media all and (min-width: 600px) {
+@media all and (min-device-width: 1024px) {
 
   section.module.parallax {
     background-attachment: fixed;   /* HERE IS THE MAGIC*/
@@ -171,7 +171,7 @@ section.module.parallax-4 {
     background-position: 50% 50%;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 200px;
+    height: 400px;
   }
 }
 
