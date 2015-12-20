@@ -173,6 +173,13 @@ section.module.parallax-4 {
     background-repeat: no-repeat;
     height: 400px;
   }
+
+  .logo {
+    position: relative;
+    margin-top: 5%;
+    left: 30%;
+    width: 40%;
+  }
 }
 
 @media all and (max-width: 600px) and (orientation: portrait) {
