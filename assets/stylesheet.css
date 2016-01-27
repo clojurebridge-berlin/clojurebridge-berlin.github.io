@@ -117,6 +117,15 @@ section.module.parallax-4 {
   line-height: 1.8;
 }
 
+#signup-form-wrapper {
+  margin: 0 auto;
+  width: 60%;
+}
+
+#signup-form-wrapper #mc_embed_signup input.email {
+  width: 100%;
+}
+
 /* Override Bootstrap */
 
 .btn {
