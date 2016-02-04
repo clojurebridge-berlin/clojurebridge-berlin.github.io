@@ -105,25 +105,24 @@ section.module.parallax-4 {
   opacity: 0.9;
 }
 
-.apply-box {
+.attention-box {
   margin-left: 5px;
   margin-right: 5px;
   padding-top: 15px;
+  padding-bottom: 5px;
   border-style: dotted;
+}
+
+.green-border {
   border-color: #5cb85c;
 }
 
-.apply-text {
-  line-height: 1.8;
+.gray-border {
+  border-color: #AEAFAE;
 }
 
-#signup-form-wrapper {
-  margin: 0 auto;
-  width: 60%;
-}
-
-#signup-form-wrapper #mc_embed_signup input.email {
-  width: 100%;
+.box-text {
+  line-height: 1.6;
 }
 
 /* Override Bootstrap */
