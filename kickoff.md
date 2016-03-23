@@ -24,6 +24,6 @@ Tuesday, 29 March 2016 at 19:00
 
 **Place**
 
-6 Wunderkinder GmbH
+Wunderlist
 Karl-Liebknecht-Straße 32
 10178 Berlin
