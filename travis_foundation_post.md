@@ -129,13 +129,13 @@ having a good old time.
 
 <blockquote class="twitter-tweet" lang="en-gb"><p lang="en" dir="ltr">Had a wonderful day <a href="https://twitter.com/ClojureBridgeDe">@ClojureBridgeDe</a> thanks to all the sponsors, organisers and amazing coaches! <a href="https://twitter.com/hashtag/quil?src=hash">#quil</a> <a href="https://twitter.com/hashtag/clojure?src=hash">#clojure</a> <a href="https://t.co/NF1qDM3A5L">pic.twitter.com/NF1qDM3A5L</a></p>&mdash; Nynne Christoffersen (@nynnest) <a href="https://twitter.com/nynnest/status/691199529127952384">January 24, 2016</a></blockquote>
 
-The workshop is over. People's faces show both excitement and exhausting. There
+The workshop is over. People's faces show both excitement and exhaustion. There
 is still a lot of of food left, so people are invited to stick around and help
-us finish it, or if they prefer they can go out and find dinner amonh
+us finish it, or if they prefer they can go out and find dinner among
 themselves. Afterwards organizers, coaches, and students all gather again at a
 bar nearby for a much deserved drink. Everyone seems to agree it was a success.
 After months of preparation we can see the results of our efforts, and we can
-starting thinking about the next event.
+start thinking about the next event.
 
 
 _To stay informed about future events you can subscribe to the [ClojureBridge Berlin mailing list](http://eepurl.com/bOa5Yr), or you can follow them on Twitter ([@ClojureeBerlinDE](https://twitter.com/ClojureBridgeDE)) and Instagram ([@clojurebridge_berlin](https://instagram.com/clojurebridge_berlin)). See you at the next event!_
