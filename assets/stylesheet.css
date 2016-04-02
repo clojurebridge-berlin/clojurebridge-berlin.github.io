@@ -113,6 +113,18 @@ section.module.parallax-4 {
   border-style: dotted;
 }
 
+.apply-box {
+  margin-left: 5px;
+  margin-right: 5px;
+  padding-top: 15px;
+  border-style: dotted;
+  border-color: #5cb85c;
+}
+
+.apply-text {
+  line-height: 1.6;
+}
+
 .green-border {
   border-color: #5cb85c;
 }
