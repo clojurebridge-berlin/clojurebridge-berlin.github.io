@@ -21,7 +21,7 @@ Your company has an option of different tiers of support. There's the direct
 sponsorship tiers, which are the most valuable form of support, and a generic
 small supporter tier. The direct sponsorship tiers involve directly paying our
 supplier with the order details we provide, and as such also mean you can pay
-with credit card will and receive an invoice.
+with credit card and will receive an invoice.
 
 * Platinum tier (~600€): Food for the main event 
 * Gold Tier (~500€): Notebooks for the Attendees 
