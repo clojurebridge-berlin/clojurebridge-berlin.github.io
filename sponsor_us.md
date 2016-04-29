@@ -55,8 +55,9 @@ the number of sign-ups.
 
 Alternatively, we also take donations via the
 [Travis Foundation UG](http://foundation.travis-ci.org/), a registered
-not-for-profit company (a “Gemeinnützige Organisation” under German law). The 
-Travis Foundation can issue a Donation Receipt for accounting and tax deduction. It
+not-for-profit company (a “Gemeinnützige Organisation” under German law). This 
+is how we can take the small supporter tier, for donations from 250€. The Travis 
+Foundation can issue a Donation Receipt for accounting and tax deduction. It
 does *not* issue invoices for donations.
 
 Get in touch today at <clojurebridge.berlin@gmail.com>.
