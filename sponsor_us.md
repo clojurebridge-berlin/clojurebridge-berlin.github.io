@@ -23,15 +23,15 @@ small supporter tier. The direct sponsorship tiers involve directly paying our
 supplier with the order details we provide, and as such also mean you can pay
 with credit card and will receive an invoice.
 
-* Platinum tier (~600€): Food for the main event 
-* Gold Tier (~500€): Notebooks for the Attendees 
+* Platinum tier (~600€): Food for the main event
+* Gold Tier (~500€): Notebooks for the Attendees
 * Silver Tier (~400€): Food for the coaches training
 * Small Supporter Tier (250€)
 
-All our sponsors are listed on our website and on our event page on 
+All our sponsors are listed on our website and on our event page on
 ClojureBridge.org. They'll receive a shoutout at the start and end of the event
 along with their logos in our presentations. All our sponsors will also have
-the opportunity to offer "swag" (stickers, note books, thumb drives, etc.) at 
+the opportunity to offer "swag" (stickers, note books, thumb drives, etc.) at
 the event.
 
 Additionally, those who sponsored in our top three tiers will also get special
@@ -42,7 +42,9 @@ logos.
 ## Financial
 
 There's two ways your company can choose to support us:
+
 ### Direct Sponsorship
+
 If you've opted for a direct sponsorship tier, then your transaction will be with
 our suppliers directly. In this case, we will give you the exact
 link/message/order that we need, and you make the transaction with that
@@ -55,9 +57,16 @@ the number of sign-ups.
 
 Alternatively, we also take donations via the
 [Travis Foundation UG](http://foundation.travis-ci.org/), a registered
-not-for-profit company (a “Gemeinnützige Organisation” under German law). This 
-is how we can take the small supporter tier, for donations from 250€. The Travis 
+not-for-profit company (a “Gemeinnützige Organisation” under German law). This
+is how we can take the small supporter tier, for donations from 250€. The Travis
 Foundation can issue a Donation Receipt for accounting and tax deduction. It
 does *not* issue invoices for donations.
 
-Get in touch today at <clojurebridge.berlin@gmail.com>.
+---
+
+### Get in touch today:
+
+- Mail: <clojurebridge.berlin@gmail.com>
+- Twitter: [ClojureBridgeDe](https://twitter.com/ClojureBridgeDe)
+
+## ♥
