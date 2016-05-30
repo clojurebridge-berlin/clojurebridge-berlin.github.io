@@ -52,11 +52,17 @@ section.module.content {
   padding-bottom: 5%;
 }
 
+.supporter-logos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
 .supporter-logo {
-  width: 16%;
-  float: left;
-  padding-right: 2%;
-  padding-bottom: 3%;
+  width: 150px;
+  padding-right: 10%;
+  padding-bottom: 5%;
 }
 
 .host-area {
