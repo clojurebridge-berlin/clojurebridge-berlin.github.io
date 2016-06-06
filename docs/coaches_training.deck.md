@@ -47,7 +47,8 @@ Raise your hand if you've been to a workshop before!
 ### ClojureBridge
 
 * First workshop April 2014
-* Since then 14 workshops in the US, Australia, Scotland, Finland, Sweden, and now Germany
+* Since then over 40 workshops in the US, UK, Ireland, Australia, Scotland, Finland, Sweden, Brazil, Canada, and... Germany!
+* So far two workshops in Berlin: July 2015, January 2016, and now the third one coming up! 🎉
 
 # How does a workshop work?
 
@@ -55,11 +56,15 @@ On Friday, we get all the necessary technologies onto the students' computers (t
 
 The next day we start with a general introduction, then break into small groups and work through the curriculum, with some talks and breaks in between.
 
-We follow the official curriculum, which starts with a step by step tutorial of Clojure, followed by an easy and a more advanced Quill app. If you have a more advanced group you can move through the first part more quickly. You get as far as you get, don't rush to "finish" things.
+We have our own fork of the official curriculum, which starts with a step by step tutorial of Clojure, followed by an easy and a more advanced Quil app. If you have a more advanced group you can move through the first part more quickly. You get as far as you get, don't rush to "finish" things.
 
 # Installfest!
 
-We recommend Cursive as editor. Of course if people have their own preference then that's fine.
+We use NightCode as editor. Of course if people have their own preference then that's fine.
+
+NightCode is pretty easy to install, it's just an executable JAR. We'll have a couple thumb drives to go around.
+
+Actually create and run a Quil project, so all dependencies are downloaded and available.
 
 #### Keep in mind:
 
@@ -70,9 +75,9 @@ We recommend Cursive as editor. Of course if people have their own preference th
 
 # Typical ClojureBridge Schedule
 
-* Friday, 6-10pm-ish: Installfest: installing software over pizza & drinks
+* Friday, 6-10pm-ish: **Installfest** <br>get set up, meet the fellow attendees, with some nice food and drinks
 
-* Saturday's schedule (details still being worked out)
+* Saturday's schedule
 
  * 9-9:30am: Check-in, coffee, small breakfast
  * 9:30-10am: Opening presentation
@@ -92,6 +97,23 @@ All the materials you're using were created by volunteers, and are on GitHub for
 If you see something that could be better, make a pull request. Pull requests are the lifeblood of ClojureBridge.
 
 If you don't know how to make one, we'll help!
+
+#  Is ClojureBridge Open Source?
+
+### Curriculum
+
+* [Github: clojurebridge/curriculum](https://github.com/clojurebridge/curriculum)
+* [Gituhb: clojurebridge-berlin/curriculum](https://github.com/clojurebridge-berlin/curriculum)
+* [Google Groups — clojurebridge-curriculum](https://groups.google.com/forum/#!forum/clojurebridge-curriculum)
+
+### Our Site
+
+* [Github: clojurebridge-berlin/clojurebridge-berlin.github.io](https://github.com/clojurebridge-berlin/clojurebridge-berlin.github.io)
+
+### Our Wiki
+
+* [https://github.com/clojurebridge-berlin/organization/wiki](https://github.com/clojurebridge-berlin/organization/wiki)
+
 
 # Discussion Topics
 
@@ -155,33 +177,23 @@ DISCUSS!
 
 DISCUSS!
 
+
 # Technical Capability (Ideas)
 
 #### Being confused is normal
-#### Explore and have fun
-#### Define concepts
-#### Encourage interaction
-#### Be super positive
-#### Walk the middle path
 
-# Technical Capability (Ideas)
-
-#### Explain that
 * Not knowing stuff is normal, even the pros spend half their day googling
 * If you keep at it it gets better, more quickly than you think
-
-#### Remind them
 * No need to make things perfect. Just build stuff, have fun!
 * Mistakes == Learning!
 
-# Technical Capability (Ideas)
-
-#### Dealing with technical concepts
+#### Define technical concepts
 
 * Define technical terms! Several times!
 * Assume anyone you're coaching has zero knowledge but infinite intelligence.
 * Remember people's backgrounds (Javascript, Ruby, Java, HTML/CSS,) and relate where possible.
 * Don't be afraid to use metaphors. If they are a cook, try a cooking analogy.
+
 
 # Technical Capability (More Ideas)
 #### Encourage collaboration and interaction
@@ -190,17 +202,16 @@ DISCUSS!
 * Be especially encouraging of the first few questions, to try to get things rolling.
 * Good responses to questions: "I'm glad you asked!" or "I actually wondered that, too." or "Great question!"
 
-# Technical Capability (More Ideas)
-
 #### Be Super Positive, Always
 * Students have diverse backgrounds. Appreciate this fact.
 * If they aren't getting a concept, avoid anything that might shame them.
 * Don't be surprised when someone hasn't heard of something before.
 * Don't grab anyone's keyboard. Avoid taking over unless you think it's *really* necessary. Ask before you do. "Mind if I drive for a sec?" But really, don't.
 
+
 # Technical Capability (Even More Ideas)
 
-#### Walk the Middle Path
+#### Find the right level
 * Don't go too deep for your class level, but also, don't gloss over things.
 * When trying to be accurate, it's easy to go down a rabbit hole of specificity. Avoid.
 * Work with the co-coaches to make sure no one goes down that rabbit hole. Accountability!
@@ -217,23 +228,23 @@ DISCUSS!
 
 # Know What's Up (Ideas)
 #### Know what's going on
-* Cover logistics at the beginning of class
-  * Planned breaks, lunch time
-  * Remind students that there is a closing presentation at the end
-  * Make sure they know where the bathroom is
-  * Let them know they can hang around and socialize afterwards
 
-# Know What's Up (Ideas)
+* Mention planned breaks, lunch time
+* Remind students that there is a closing presentation at the end
+* Make sure they know where the bathroom is
+* Let them know they can hang around and socialize afterwards
+
 #### Establish a few ground rules
 * Questions are always welcome, even if the student thinks it might be dumb. "That's a **GREAT** question"
-* Explain that if someone has trouble (e.g., not getting the expected output), the coaches will help troubleshoot.
+* Explain that if someone has trouble, the coaches will help troubleshoot.
 * If anyone wants to switch classes, tell them they should feel TOTALLY COMFORTABLE switching at any point.
-* Breaks are a good time to have a look at what other groups are doing.
+* Have breaks! Eat a muffin! Have a look at what other groups are doing!
 
 # Know What's Up (More Ideas)
-#### Don't be afraid to:
-* Call on people! By name!
-* Correct people if they're wrong. Be polite and encouraging. For instance:
+#### Teaching style
+
+* Know people's name, and use it
+* You can correct people in a nice and encouraging way
   * "Well, this might work better and this is why."
   * "Can you explain how you came to that conclusion?"
   * "Does anyone have a different answer?"
@@ -265,7 +276,7 @@ DISCUSS!
 
 DISCUSS!
 
-# Build a Team
+# Coaching: Build a Team
 
 * ClojureBridge normally makes a distinction between coaches and TAs (teaching assistants).
 * We will try to form groups with two coaches per group.
@@ -279,7 +290,8 @@ DISCUSS!
 * The other coach can give more individual assistance
 * Swap these roles around if it makes sense. Find a healthy dynamic!
 
-# Co-coaching (Some Ideas)
+#### Co-coaching (Some Ideas)
+
 * Both coaches can ask questions to encourage students to speak up.
 * Ask your co-coach to explain a concept; they may be more technically advanced than you!
 * Co-coaches can help people who get lost.
@@ -293,26 +305,17 @@ DISCUSS!
 
 DISCUSS!
 
-# Student Comprehension
-* Pay attention to body language.
-* People ask questions most often when they are actively processing material. If they aren't, it might be that the material is too easy or hard. Try to figure out which it is!
-
-#### Calling on people
-* Calling on people makes the class more interactive and engaging, and less lecture-y.
-* Don't always ask questions to the whole class: call on individuals by name.
-* Consider breaking the class into two teams and addressing questions to teams.
-* Ask people what they expect a command to produce BEFORE you hit enter.
-* Ask "How would you do \#\{this\}?" or "If I wanted to do \#\{that\}, what would I do?"
-
 # Practical Recap
 
-Installfest: Friday **10 July, 17:00**
+Installfest: Friday **17 June, 18:00**
 
-Workshop: Saturday **11 July**, doors open at **9:00**, starts at 9:30
+Workshop: Saturday **18 June**, doors open at **9:00**, starts at 9:30
+
+Afterparty: at Prater Garten (weather permitting)
 
 &nbsp;
 
-Location: **6Wunderkinder office**
+Location: **Wunderlist office (Microsoft)**
 
 Karl-Liebknecht-Straße 32
 
