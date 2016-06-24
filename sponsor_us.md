@@ -23,7 +23,7 @@ small supporter tier. The direct sponsorship tiers involve directly paying our
 supplier with the order details we provide, and as such also mean you can pay
 with credit card and will receive an invoice.
 
-* Platinum tier (~600€): Food for the main event
+* Platinum Tier (~600€): Food for the main event
 * Gold Tier (~500€): Notebooks for the Attendees
 * Silver Tier (~400€): Food for the coaches training
 * Small Supporter Tier (250€)
@@ -70,3 +70,54 @@ does *not* issue invoices for donations.
 - Twitter: [ClojureBridgeDe](https://twitter.com/ClojureBridgeDe)
 
 ## ♥
+
+---
+
+<div class="row supporter-area">
+  <h2>Past ClojureBridge Supporters</h2>
+
+  <div class="col-md-12 supporter-logos">
+    <a href="http://www.babbel.com">
+      <img class="supporter-logo" src="/images/logos/babbel.jpg">
+    </a>
+    <a href="http://bitcrowd.net/">
+      <img class="supporter-logo" src="/images/logos/bitcrowd.png">
+    </a>
+    <a href="http://en.dawanda.com/">
+      <img class="supporter-logo" src="/images/logos/dawanda.jpg">
+    </a>
+    <a href="https://www.iamfy.co/">
+      <img class="supporter-logo" src="/images/logos/fy_logo_black_1024px-1.jpg">
+    </a>
+    <a href="https://github.com/">
+      <img class="supporter-logo" src="/images/logos/github.jpg">
+    </a>
+    <a href="https://www.innoq.com/en/">
+      <img class="supporter-logo" src="/images/logos/innoq.png">
+    </a>
+    <a href="https://lambdawerk.com">
+      <img class="supporter-logo" src="/images/logos/lambdawerk.png">
+    </a>
+    <a href="http://www.metosin.fi/">
+      <img class="supporter-logo" src="/images/logos/metosin.jpg">
+    </a>
+    <a href="http://www.purelyfunctional.tv/">
+      <img class="supporter-logo" src="/images/logos/purefunctional_tv.png">
+    </a>
+    <a href="http://www.redpineapplemedia.com/">
+      <img class="supporter-logo" src="/images/logos/red_pineapple_media.png">
+    </a>
+    <a href="https://soundcloud.com/">
+      <img class="supporter-logo" src="/images/logos/soundcloud.jpg">
+    </a>
+    <a href="http://www.ticketsolve.com/">
+      <img class="supporter-logo" src="/images/logos/ticketsolve.png">
+    </a>
+    <a href="https://www.wunderlist.com/">
+      <img class="supporter-logo" src="/images/logos/wunderlist.jpg">
+    </a>
+    <a href="http://www.zalando.de/">
+      <img class="supporter-logo" src="/images/logos/zalando.png">
+    </a>
+  </div>
+</div>
