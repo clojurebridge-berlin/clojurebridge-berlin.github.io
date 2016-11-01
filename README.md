@@ -28,3 +28,9 @@ gem install jekyll
 ```
 In your browser go to:
 http://localhost:4000/
+
+## Usage Rights
+
+You can fork this website for your ClojureBridge chapter.
+You may not use our pictures for your site without explicit permission.
+If you want permission to use any of our pictures for web or press please contact us at clojurebridgeberlin@gmail.com.
