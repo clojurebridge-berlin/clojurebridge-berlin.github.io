@@ -28,8 +28,8 @@ We're making tech more diverse and more welcoming!
 # Introductions
 ### Who are you?
 * What's your name?
+* What are your pronouns?
 * Have you been to a ClojureBridge or similar workshops before? How many?
-* What do you do for a living? Care to share who you work for?
 * What's your favorite place in Berlin?
 * What's the most non-coding thing you do?
 
@@ -56,7 +56,10 @@ On Friday, we get all the necessary technologies onto the students' computers (t
 
 The next day we start with a general introduction, then break into small groups and work through the curriculum, with some talks and breaks in between.
 
-We have our own fork of the official curriculum, which starts with a step by step tutorial of Clojure, followed by an easy and a more advanced Quil app. If you have a more advanced group you can move through the first part more quickly. You get as far as you get, don't rush to "finish" things.
+In groups of 3 to 4 students and two coaches we work through the curriculum (a tutorial of Clojure) and then work on a Quil app (graphics library).
+Floating coaches are available for extra support.
+
+You get as far as you get, don't rush to "finish" things.
 
 # Installfest!
 
@@ -161,6 +164,13 @@ DISCUSS!
 * Don't make gender-based generalizations ("Women are better at X, because ...")
 * Don't make references to people's bodies or state your opinion of them.
 * Don't use slurs.
+
+# Social Comfort (pay attention to pronouns)
+
+* attendees are women and non-binary people
+* attendees are asked to write down their pronouns on their name tags
+* please don't assume anybody's gender
+* refrain from gender specific terms like "hey guys", "hello ladies"
 
 # Social Comfort (Even More Ideas)
 #### Represent the diverse and welcoming community we stand for
@@ -307,11 +317,11 @@ DISCUSS!
 
 # Practical Recap
 
-Installfest: Friday **17 June, 18:00**
+Installfest: Friday **25 November, 18:00**
 
-Workshop: Saturday **18 June**, doors open at **9:00**, starts at 9:30
+Workshop: Saturday **26 November**, doors open at **9:00**, starts at 9:30
 
-Afterparty: at Prater Garten (weather permitting)
+Afterparty: at Volksbar
 
 &nbsp;
 
