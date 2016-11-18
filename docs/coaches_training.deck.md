@@ -48,7 +48,7 @@ Raise your hand if you've been to a workshop before!
 
 * First workshop April 2014
 * Since then over 40 workshops in the US, UK, Ireland, Australia, Scotland, Finland, Sweden, Brazil, Canada, and... Germany!
-* So far two workshops in Berlin: July 2015, January 2016, and now the third one coming up! 🎉
+* Workshops in Berlin since July 2015 and recurring regularly! 🎉
 
 # How does a workshop work?
 
