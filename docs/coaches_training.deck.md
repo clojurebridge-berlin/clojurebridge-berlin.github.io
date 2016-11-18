@@ -291,7 +291,7 @@ DISCUSS!
 * ClojureBridge normally makes a distinction between coaches and TAs (teaching assistants).
 * We will try to form groups with two coaches per group.
 * You can decide on one coach to take the lead, or you can tag-team.
-* There will also be some "floating" TAs that can go around ang help.
+* There will also be some "floating" TAs that can go around and help.
 
 # Coaching Dynamics (Ideas)
 
