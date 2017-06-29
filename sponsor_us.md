@@ -30,7 +30,7 @@ Your company has an option of different tiers of support:
 * Your logo on our website
 * Announcement at the event (you may offer swag for attendees)
 
-### Small Supporter - 250€
+### Silver Supporter - 250€
 * _e.g. by sponsoring coffee & cake on workshop day_
 * Your logo on our website
 * Announcement at the event (you may offer swag for attendees)
