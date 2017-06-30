@@ -19,7 +19,7 @@ increase diversity in the technology scene.
 
 Your company has an option of different tiers of support:
 
-### Platinum Sponsor - 600+€
+### Platinum Sponsor - 1000+€
 * _e.g. by paying for lunch on workshop day_
 * Shoutout on our social media pages
 * Your logo in **top** placement on our website
