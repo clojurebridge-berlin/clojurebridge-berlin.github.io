@@ -63,7 +63,7 @@ You get as far as you get, don't rush to "finish" things.
 
 # Installfest!
 
-We use the NightCode editor. Of course if students have their own preference then that's fine.
+We use the NightCode editor. Of course if people have their own preference then that's fine.
 
 NightCode is pretty easy to install, as it's just an executable JAR. We'll have a couple thumb drives to go around.
 
