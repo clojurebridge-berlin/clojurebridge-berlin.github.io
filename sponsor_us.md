@@ -20,18 +20,18 @@ increase diversity in the technology scene.
 Your company has an option of different tiers of support:
 
 ### Platinum Sponsor - 1000+€
-* _e.g. by paying for lunch on workshop day_
+* _this could cover our workshop catering costs_
 * Shoutout on our social media pages
 * Your logo in **top** placement on our website
 * Announcement at the event (you may offer swag for attendees)
 
 ### Gold Sponsor - 500€
-* _e.g. by buying t-shirts for the attendees_
+* _this could cover buying t-shirts for the attendees_
 * Your logo on our website
 * Announcement at the event (you may offer swag for attendees)
 
 ### Silver Supporter - 250€
-* _e.g. by sponsoring coffee & cake on workshop day_
+* _this could cover coffee & cake on workshop day_
 * Announcement at the event (you may offer swag for attendees)
 
 ## How does it work?
