@@ -19,14 +19,21 @@ increase diversity in the technology scene.
 
 Your company has an option of different tiers of support:
 
+### T-shirt Sponsor - 1500€
+* _this enables us to buy t-shirts for all attendees_
+* This package is only available once!
+* Your logo on the t-shirt
+* Your logo on our website
+* Announcement at the event (you may offer swag for attendees)
+
 ### Platinum Sponsor - 1000+€
-* _this could cover our workshop catering costs_
+* _this could cover our main workshop catering costs_
 * Shoutout on our social media pages
 * Your logo in **top** placement on our website
 * Announcement at the event (you may offer swag for attendees)
 
 ### Gold Sponsor - 500€
-* _this could cover buying t-shirts for the attendees_
+* _this could cover catering for the install party_
 * Your logo on our website
 * Announcement at the event (you may offer swag for attendees)
 
