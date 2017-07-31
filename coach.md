@@ -13,9 +13,9 @@ They will go with you through [our ClojureBridge curriculum](https://clojurebrid
 There will be a coaching and awareness training before the workshop.
 
 ### Important information
-- **Coaches Training:** 9 June 2016
-- **Workshop:** June 17 and 18, 2016
-- **Location:** Berlin, Wunderlist office
+- **Coaches Training:** Thursday, September 28, 2017
+- **Workshop:** October 7 and 8, 2017 (Friday evening and Saturday)
+- **Location:** Berlin, Wooga office
 
 ### You at ClojureBridge?
 - We are especially looking for women coaches this summer. But of course people of other genders are very welcome to coach.
