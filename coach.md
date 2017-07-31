@@ -15,7 +15,7 @@ There will be a coaching and awareness training before the workshop.
 ### Important information
 - **Coaches Training:** Thursday, September 28, 2017
 - **Workshop:** October 7 and 8, 2017 (Friday evening and Saturday)
-- **Location:** Berlin, Wooga office
+- **Location:** Berlin, [Wooga office](https://www.google.de/maps/place/Wooga/@52.5293528,13.4092054,13.3z/data=!4m5!3m4!1s0x0:0x69f3e8333126bae7!8m2!3d52.5287037!4d13.4161895)
 
 ### You at ClojureBridge?
 - We are especially looking for women coaches this summer. But of course people of other genders are very welcome to coach.
