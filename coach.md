@@ -21,17 +21,17 @@ There will be a coaching and awareness training before the workshop.
 - We are especially looking for women coaches this summer. But of course people of other genders are very welcome to coach.
 - We expect you to be interested in making the tech industry a more diverse place.
 - Experience in Clojure is a plus. But even as a Clojure beginner you can coach. We can team you up with a more experienced coach.
-- We expect you to go through the curriculum before hand and think about how you would explain the concepts.
+- We expect you to go through the curriculum beforehand and think about how you would explain the concepts.
 - Groups consist of 2 coaches and 4 attendees.
 - The group language is either German or English.
 
 ### What do you get?
-- You can help to start new carriers in tech 💯.
-- Coaching is an awesome experience. It helps you understand Clojure better.
-- Coaching can help you to practice your explaining skills which is also useful for work.
-- You get to know a lot of motivated learners.
-- Free vegan food and drinks provided.
-- Endless gratitude from our side.
+ - satisfaction from helping to start new careers in tech 💯.
+ - the awesome coaching experience, which helps you understand Clojure better
+ - practice for your code-explaining skills, which is useful for any programmer
+ - opportunity to meet a lot of motivated learners
+ - free vegan food and drinks
+ - endless gratitude from organizers
 
 ### Sign up now
 
