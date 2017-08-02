@@ -63,11 +63,11 @@ You get as far as you get, don't rush to "finish" things.
 
 # Installfest!
 
-We use NightCode as editor. Of course if people have their own preference then that's fine.
+We use the NightCode editor. Of course if people have their own preference then that's fine.
 
-NightCode is pretty easy to install, it's just an executable JAR. We'll have a couple thumb drives to go around.
+NightCode is pretty easy to install, as it's just an executable JAR. We'll have a couple thumb drives to go around.
 
-Actually create and run a Quil project, so all dependencies are downloaded and available.
+Please actually create and run a Quil project, so all dependencies are downloaded and available.
 
 #### Keep in mind:
 

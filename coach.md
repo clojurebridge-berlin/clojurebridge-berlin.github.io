@@ -5,7 +5,7 @@ permalink: /coach/
 ---
 # Coach at ClojureBridge
 
-ClojureBridge aims to increase diversity within the Clojure community by offering **free, beginner-friendly Clojure programming workshops for women**. On Friday evening we install the software which is needed and get to know each other. Saturday is for coding in groups, learning and talks.
+ClojureBridge aims to increase diversity within the Clojure community by offering **free, beginner-friendly Clojure programming workshops for women and non-binary people**. On Friday evening we install the software which is needed and get to know each other. Saturday is for coding in groups, learning and talks.
 
 As a development environment students will be using [NightCode](https://sekao.net/nightcode/).
 They will go with you through [our ClojureBridge curriculum](https://clojurebridge-berlin.github.io/curriculum/#/) and build a creative [Quil](https://github.com/quil/quil) app.
@@ -13,31 +13,31 @@ They will go with you through [our ClojureBridge curriculum](https://clojurebrid
 There will be a coaching and awareness training before the workshop.
 
 ### Important information
-- **Coaches Training:** 9 June 2016
-- **Workshop:** June 17 and 18, 2016  
-- **Location:** Berlin, Wunderlist office
+- **Coaches Training:** Thursday, September 28, 2017
+- **Workshop:** October 7 and 8, 2017 (Friday evening and Saturday)
+- **Location:** Berlin, [Wooga office](https://www.google.de/maps/place/Wooga/@52.5293528,13.4092054,13.3z/data=!4m5!3m4!1s0x0:0x69f3e8333126bae7!8m2!3d52.5287037!4d13.4161895)
 
 ### You at ClojureBridge?
-- We are especially looking for women coaches this summer. But of course men and people of non-binary gender identity are very welcome to coach.
+- We are especially looking for women coaches this summer. But of course people of other genders are very welcome to coach.
 - We expect you to be interested in making the tech industry a more diverse place.
 - Experience in Clojure is a plus. But even as a Clojure beginner you can coach. We can team you up with a more experienced coach.
-- We expect you to go through the curriculum before hand and think about how you would explain the concepts.
+- We expect you to go through the curriculum beforehand and think about how you would explain the concepts.
 - Groups consist of 2 coaches and 4 attendees.
 - The group language is either German or English.
 
 ### What do you get?
-- You can help to start new carriers in tech 💯.
-- Coaching is an awesome experience. It helps you understand Clojure better.
-- Coaching can help you to practice your explaining skills which is also useful for work.
-- You get to know a lot of motivated learners.
-- Free vegan food and drinks provided.
-- Endless gratitude from our side.
+ - satisfaction from helping to start new careers in tech 💯.
+ - the awesome coaching experience, which helps you understand Clojure better
+ - practice for your code-explaining skills, which is useful for any programmer
+ - opportunity to meet a lot of motivated learners
+ - free vegan food and drinks
+ - endless gratitude from organizers
 
 ### Sign up now
 
 <div class="row">
   <div class="col-md-4">
-    <a href="http://goo.gl/forms/zg113VqIoy">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeU6uJ8OqDsBS_p96DESwK2FHhaDdCltWguDxzJn0feSH2N3w/viewform">
       <button type="button" class="btn btn-success">Sign up now to coach!</button>
     </a>
   </div>
