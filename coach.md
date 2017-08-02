@@ -37,7 +37,7 @@ There will be a coaching and awareness training before the workshop.
 
 <div class="row">
   <div class="col-md-4">
-    <a href="http://goo.gl/forms/zg113VqIoy">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeU6uJ8OqDsBS_p96DESwK2FHhaDdCltWguDxzJn0feSH2N3w/viewform">
       <button type="button" class="btn btn-success">Sign up now to coach!</button>
     </a>
   </div>
