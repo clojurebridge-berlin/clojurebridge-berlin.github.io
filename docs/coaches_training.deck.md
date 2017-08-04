@@ -17,6 +17,21 @@ It helps to have a whiteboard or those giant sticky notes for the discussions if
 ### Discussion is key!
 ### Don't let the presenter(s) do all the talking!
 
+
+# Code of Conduct
+
+The Berlin Code of Conduct ([berlincodeofconduct.org](berlincodeofconduct.org))  outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+
+### Expected Behavior
+
+ - Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
+ - Exercise consideration and respect in your speech and actions.
+ -Attempt collaboration before conflict.
+ - Refrain from demeaning, discriminatory, or harassing behavior and speech.
+ - Be mindful of your surroundings and of your fellow participants.
+  - Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+
+
 # Why ClojureBridge?
 We're making tech more diverse and more welcoming!
 
@@ -179,6 +194,14 @@ DISCUSS!
 * Windows is fine. PHP is fine. Javascript is fine.
 * Be genuinely interested in people's experiences. ("You built something? That's cool. What does it do?")
 * Appreciate that different technologies have different trade-offs. Being easily accessible is one of them.
+
+# Code of Conduct Violations
+
+The Berlin Code of Conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+
+#### Q: How do I react if an attendee complains about CoC violation?
+#### A: Bring them to an orga-team memeber
+
 
 # Discussion: Technical Capability
 ### How can you help people feel technically capable?
