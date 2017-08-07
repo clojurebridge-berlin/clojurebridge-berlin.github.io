@@ -200,7 +200,7 @@ DISCUSS!
 The Berlin Code of Conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
 #### Q: How do I react if an attendee complains about CoC violation?
-#### A: Bring them to an orga-team memeber
+#### A: Bring them to an orga-team member
 
 
 # Discussion: Technical Capability
