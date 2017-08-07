@@ -24,12 +24,12 @@ The Berlin Code of Conduct ([berlincodeofconduct.org](berlincodeofconduct.org)) 
 
 ### Expected Behavior
 
- - Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
- - Exercise consideration and respect in your speech and actions.
- -Attempt collaboration before conflict.
- - Refrain from demeaning, discriminatory, or harassing behavior and speech.
- - Be mindful of your surroundings and of your fellow participants.
-  - Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+ - Participate authentically and actively
+ - Be considerate and respectful
+ - Attempt collaboration before conflict
+ - Refrain from demeaning, discriminatory, or harassing behavior/speech
+ - Be mindful of your surroundings and fellow participants
+ - Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct (even if it seems inconsequential)
 
 
 # Why ClojureBridge?
