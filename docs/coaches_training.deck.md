@@ -29,7 +29,10 @@ The Berlin Code of Conduct ([berlincodeofconduct.org](berlincodeofconduct.org)) 
  - Attempt collaboration before conflict
  - Refrain from demeaning, discriminatory, or harassing behavior/speech
  - Be mindful of your surroundings and fellow participants
- - Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct (even if it seems inconsequential)
+ - Alert community leaders if you notice:
+   - a dangerous situation
+   - someone in distress
+   - violations of this Code of Conduct
 
 
 # Why ClojureBridge?
