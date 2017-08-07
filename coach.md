@@ -29,7 +29,7 @@ There will be a coaching and awareness training before the workshop.
 </div>
 
 ### You at ClojureBridge?
-- We are especially looking for women coaches this summer. But of course people of other genders are very welcome to coach.
+- We are especially looking for women and non-binary people to be coaches this fall! But of course people of all genders are very welcome to coach.
 - We expect you to be interested in making the tech industry a more diverse place.
 - Experience in Clojure is a plus. But even as a Clojure beginner you can coach. We can team you up with a more experienced coach.
 - We expect you to go through the curriculum beforehand and think about how you would explain the concepts.
