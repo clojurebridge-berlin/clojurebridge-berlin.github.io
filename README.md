@@ -26,6 +26,7 @@ Maybe you have to install Jekyll if the last command doesn't work.
 ```
 gem install jekyll
 ```
+If that doesn't work, try `bundle install` then `bundle exec jekyll serve`.
 In your browser go to:
 http://localhost:4000/
 
