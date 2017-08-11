@@ -121,11 +121,11 @@ If you don't know how to make one, we'll help!
 
 #  Is ClojureBridge Open Source?
 
-### Curriculum
+### Our Curriculum
 
 [GitHub: clojurebridge-berlin/curriculum](https://github.com/clojurebridge-berlin/curriculum)
 
-### Our Site
+### clojurebridge-berlin.org
 
 [GitHub: clojurebridge-berlin/clojurebridge-berlin.github.io](https://github.com/clojurebridge-berlin/clojurebridge-berlin.github.io)
 
