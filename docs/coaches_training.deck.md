@@ -8,11 +8,7 @@
 
 # What is this?
 
-You're probably at a coaches training for ClojureBridge.
-
-This slide deck is a tool to facilitate conversations about coaching best practices and challenges, specifically for ClojureBridge workshops.
-
-It helps to have a whiteboard or those giant sticky notes for the discussions if possible.
+You're at a ClojureBridge Berlin coaches training!
 
 ### Discussion is key!
 ### Don't let the presenter(s) do all the talking!
