@@ -29,9 +29,10 @@ The Berlin Code of Conduct ([berlincodeofconduct.org](berlincodeofconduct.org)) 
 We're making tech more diverse and more welcoming!
 
 ### How?
-* We throw super-welcoming, fun, free workshops.
-* We provide great networking opportunities for students and volunteers.
-* We help our volunteers become more empathetic and better communicators.
+* We throw super-welcoming, fun, free workshops
+* We provide great networking opportunities
+* We help our volunteers become more empathetic communicators
+
 
 # Introductions
 ### Who are you?
