@@ -38,9 +38,10 @@ We're making tech more diverse and more welcoming!
 ### Who are you?
 * What's your name?
 * What are your pronouns?
-* Have you been to a ClojureBridge or similar workshops before? How many?
+* How many ClojureBridge or similar workshops have you been to?
 * What's your favorite place in Berlin?
 * What's the most non-coding thing you do?
+
 
 # What's a ClojureBridge?
 
