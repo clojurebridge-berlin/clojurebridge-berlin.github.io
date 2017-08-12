@@ -45,8 +45,6 @@ We're making tech more diverse and more welcoming!
 
 # What's a ClojureBridge?
 
-Raise your hand if you've been to a workshop before!
-
 ### RailsBridge Fun Facts
 
 * Founded in 2009
