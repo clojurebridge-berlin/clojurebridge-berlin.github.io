@@ -344,19 +344,15 @@ DISCUSS!
 # Practical Recap
 
 #### Installfest
-
-* Friday **6 October, 18:00**
-* Location: **TODO FIXME**
+* Friday **6 October, 18:00** at **TODO FIXME**
 
 #### Workshop
 * Saturday **7 October**, doors open at **9:00**, starts at 9:30
-* Location: **Wooga (STREET ADDRESS TODO FIXME)**
-* TODO FIXME
+* Location: **Wooga**, Saarbrücker Str. 38, 10405 Berlin
 
 #### Afterparty
 * TODO
 
 #### Don't forget
-* Laptop
-* Powercord
-* Go through the curriculum at home
+* Laptop (with power cord!)
+* Go through the curriculum at home before event
