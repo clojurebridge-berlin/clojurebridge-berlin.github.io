@@ -48,8 +48,8 @@ We're making tech more diverse and more welcoming!
 ### RailsBridge Fun Facts
 
 * Founded in 2009
-* Its goal: make the community more diverse and more welcoming to newcomers.
-* Since 2012 backed by Bridge Foundry,
+* Goal: make the community more diverse and more welcoming to newcomers
+* Since 2012 backed by Bridge Foundry
 * Also does MobileBridge, ng-bridge, Teaching Kids, and ... ClojureBridge!
 
 ### ClojureBridge
