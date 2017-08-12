@@ -1,11 +1,5 @@
 # ClojureBridge Coaches Training
 
-# Today's Agenda
-
-### Background and Practicalities
-
-### Discussion Topics & Coaching Tips
-
 # What is this?
 
 You're at a ClojureBridge Berlin coaches training!
