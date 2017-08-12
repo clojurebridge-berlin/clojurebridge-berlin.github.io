@@ -343,22 +343,20 @@ DISCUSS!
 
 # Practical Recap
 
-Installfest: Friday **25 November, 18:00**
+#### Installfest
 
-Workshop: Saturday **26 November**, doors open at **9:00**, starts at 9:30
+* Friday **6 October, 18:00**
+* Location: **TODO FIXME**
 
-Afterparty: at Volksbar
+#### Workshop
+* Saturday **7 October**, doors open at **9:00**, starts at 9:30
+* Location: **Wooga (STREET ADDRESS TODO FIXME)**
+* TODO FIXME
 
-&nbsp;
+#### Afterparty
+* TODO
 
-Location: **Wunderlist office (Microsoft)**
-
-Karl-Liebknecht-Straße 32
-
-Around the corner from **Alexanderplatz**.
-
-&nbsp;
-
-Don't forget: laptop, powercord
-
-Go through the curriculum at home.
+#### Don't forget
+* Laptop
+* Powercord
+* Go through the curriculum at home
