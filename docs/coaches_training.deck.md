@@ -58,6 +58,7 @@ We're making tech more diverse and more welcoming!
 * Since then over 40 workshops in the US, UK, Ireland, Australia, Scotland, Finland, Sweden, Brazil, Canada, and... Germany!
 * Workshops in Berlin since July 2015 and recurring regularly! 🎉
 
+
 # How does a workshop work?
 
 On Friday, we get all the necessary technologies onto the students' computers (the Installfest).
@@ -68,6 +69,7 @@ In groups of 3 to 4 students and two coaches we work through the curriculum (a t
 Floating coaches are available for extra support.
 
 You get as far as you get, don't rush to "finish" things.
+
 
 # Installfest!
 
@@ -84,6 +86,7 @@ Please actually create and run a Quil project, so all dependencies are downloade
 * Do NOT say bad things about Windows, even if it's frustrating.
 * If you're not sure about something, grab another volunteer.
 
+
 # Typical ClojureBridge Schedule
 
 * Friday, 6-10pm-ish: **Installfest** <br>get set up, meet the fellow attendees, with some nice food and drinks
@@ -98,6 +101,7 @@ Please actually create and run a Quil project, so all dependencies are downloade
  * 4:30-5:00pm: Closing presentation & retros
  * 5:00pm-...: Free to hang around and socialize
 
+
 # Is ClojureBridge Open Source?
 
 ### WHY YES, THANK YOU FOR ASKING!
@@ -108,6 +112,7 @@ All the materials you're using were created by volunteers, and are on GitHub for
 If you see something that could be better, make a pull request. Pull requests are the lifeblood of ClojureBridge.
 
 If you don't know how to make one, we'll help!
+
 
 #  Is ClojureBridge Open Source?
 
@@ -128,6 +133,7 @@ If you don't know how to make one, we'll help!
 
 # Discussion Topics
 
+
 # How to make your class awesome
 
 How to make your class awesome? We created some arbitrary categories for discussion. We'll go through each one, and get input from the group (whiteboard \o/), and then provide some additional ideas and suggestions.
@@ -138,6 +144,7 @@ How to make your class awesome? We created some arbitrary categories for discuss
 ### Challenges
 ### Coaching
 ### Comprehension
+
 
 # Discussion: Social Comfort
 
@@ -154,6 +161,7 @@ How to make your class awesome? We created some arbitrary categories for discuss
 
 DISCUSS!
 
+
 # Social Comfort (Ideas)
 
 #### Introductions
@@ -165,6 +173,7 @@ DISCUSS!
 * Name games! Admit up front that most people are bad at learning new names.
 * Get people talking. The more comfortable they are at talking, the more likely they'll speak up when they don't understand something, or to answer someone else's question.
 
+
 # Social Comfort (More Ideas)
 #### Try to suppress your (understandable) culturally-influenced sexism
 * Don't hit on people. No sexual advances. None. Even at the after-party.
@@ -173,12 +182,14 @@ DISCUSS!
 * Don't make references to people's bodies or state your opinion of them.
 * Don't use slurs.
 
+
 # Social Comfort (pay attention to pronouns)
 
 * attendees are women and non-binary people
 * attendees are asked to write down their pronouns on their name tags
 * please don't assume anybody's gender
 * refrain from gender specific terms like "hey guys", "hello ladies"
+
 
 # Social Comfort (Even More Ideas)
 #### Represent the diverse and welcoming community we stand for
@@ -187,6 +198,7 @@ DISCUSS!
 * Windows is fine. PHP is fine. Javascript is fine.
 * Be genuinely interested in people's experiences. ("You built something? That's cool. What does it do?")
 * Appreciate that different technologies have different trade-offs. Being easily accessible is one of them.
+
 
 # Code of Conduct Violations
 
@@ -244,6 +256,7 @@ DISCUSS!
 * Explain the big picture of a command *before* they type it in.
   * i.e., before typing the command to deploy to Heroku, explain the difference between localhost and Heroku.
 
+
 # Discussion (Do you know what's up?)
 
 #### How can you help people feel like you know what's going on?
@@ -251,6 +264,7 @@ DISCUSS!
 #### What are some things to avoid?
 
 DISCUSS!
+
 
 # Know What's Up (Ideas)
 #### Know what's going on
@@ -266,6 +280,7 @@ DISCUSS!
 * If anyone wants to switch classes, tell them they should feel TOTALLY COMFORTABLE switching at any point.
 * Have breaks! Eat a muffin! Have a look at what other groups are doing!
 
+
 # Know What's Up (More Ideas)
 #### Teaching style
 
@@ -277,12 +292,14 @@ DISCUSS!
   * "Ah, I see what you're trying to do."
 * Ask yourself questions and answer them.
 
+
 # Know What's Up (Even More Ideas)
 #### Pace yourself!
 * Don't go too fast. You will probably go too fast. Check in occasionally to ensure everyone is still with you.
 * You can say the same thing THREE TIMES and it will not be boring yet.
 * When you ask a question, wait TEN WHOLE SECONDS before saying anything else. People need time to think.
 * Don't let the most advanced students dictate the pacing or answer all the questions.
+
 
 # Discussion: Challenges
 Talk about what problems you might anticipate, and what to do about them.
@@ -294,6 +311,7 @@ Talk about what problems you might anticipate, and what to do about them.
 
 DISCUSS!
 
+
 # Discussion: Coaching
 
 #### What are the benefits of having two coaches in a group?
@@ -302,12 +320,14 @@ DISCUSS!
 
 DISCUSS!
 
+
 # Coaching: Build a Team
 
 * ClojureBridge normally makes a distinction between coaches and TAs (teaching assistants).
 * We will try to form groups with two coaches per group.
 * You can decide on one coach to take the lead, or you can tag-team.
 * There will also be some "floating" TAs that can go around and help.
+
 
 # Coaching Dynamics (Ideas)
 
@@ -323,6 +343,7 @@ DISCUSS!
 * Co-coaches can help people who get lost.
 * If someone falls behind, the co-coach can take them aside to do some 1-on-1.
 
+
 # Discussion: Comprehension
 
 #### How can you tell if they understand the words you're saying?
@@ -330,6 +351,7 @@ DISCUSS!
 #### What did your favorite coaches do to gauge understanding?
 
 DISCUSS!
+
 
 # Practical Recap
 
