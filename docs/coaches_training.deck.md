@@ -351,7 +351,7 @@ DISCUSS!
 * Location: **Wooga**, Saarbrücker Str. 38, 10405 Berlin
 
 #### Afterparty
-* TODO
+* Volksbar
 
 #### Don't forget
 * Laptop (with power cord!)
