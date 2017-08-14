@@ -121,19 +121,17 @@ If you don't know how to make one, we'll help!
 
 #  Is ClojureBridge Open Source?
 
-### Curriculum
+### Our Curriculum
 
-* [Github: clojurebridge/curriculum](https://github.com/clojurebridge/curriculum)
-* [Gituhb: clojurebridge-berlin/curriculum](https://github.com/clojurebridge-berlin/curriculum)
-* [Google Groups — clojurebridge-curriculum](https://groups.google.com/forum/#!forum/clojurebridge-curriculum)
+[GitHub: clojurebridge-berlin/curriculum](https://github.com/clojurebridge-berlin/curriculum)
 
-### Our Site
+### clojurebridge-berlin.org
 
-* [Github: clojurebridge-berlin/clojurebridge-berlin.github.io](https://github.com/clojurebridge-berlin/clojurebridge-berlin.github.io)
+[GitHub: clojurebridge-berlin/clojurebridge-berlin.github.io](https://github.com/clojurebridge-berlin/clojurebridge-berlin.github.io)
 
 ### Our Wiki
 
-* [https://github.com/clojurebridge-berlin/organization/wiki](https://github.com/clojurebridge-berlin/organization/wiki)
+[GitHub: clojurebridge-berlin/organization/wiki](https://github.com/clojurebridge-berlin/organization/wiki)
 
 
 # Discussion Topics
