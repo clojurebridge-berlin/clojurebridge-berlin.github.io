@@ -341,22 +341,16 @@ DISCUSS!
 
 # Practical Recap
 
-Installfest: Friday **25 November, 18:00**
+#### 👉🏽 Don't forget 👀
+* Bring your laptop (with power cord)!
+* Go through the curriculum at home before workshop
 
-Workshop: Saturday **26 November**, doors open at **9:00**, starts at 9:30
+#### ⌨️ Installfest 🖳
+* Friday **6 October, 18:00** at **TODO FIXME**
 
-Afterparty: at Volksbar
+#### Workshop 💕💯🌈
+* Saturday **7 October**, doors open at **9:00**, starts at 9:30
+* Location: **Wooga**, Saarbrücker Str. 38, 10405 Berlin
 
-&nbsp;
-
-Location: **Wunderlist office (Microsoft)**
-
-Karl-Liebknecht-Straße 32
-
-Around the corner from **Alexanderplatz**.
-
-&nbsp;
-
-Don't forget: laptop, powercord
-
-Go through the curriculum at home.
+#### 🎉 Afterparty 🙌
+* Volksbar
