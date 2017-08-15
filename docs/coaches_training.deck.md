@@ -343,11 +343,11 @@ DISCUSS!
 
 # Practical Recap
 
-#### Don't forget 👀
+#### 👉🏽 Don't forget 👀
 * Bring your laptop (with power cord)!
 * Go through the curriculum at home before workshop
 
-#### Installfest
+#### ⌨️ Installfest 🖳
 * Friday **6 October, 18:00** at **TODO FIXME**
 
 #### Workshop 💕💯🌈
