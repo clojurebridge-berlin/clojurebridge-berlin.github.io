@@ -346,7 +346,7 @@ DISCUSS!
 * Go through the curriculum at home before workshop
 
 #### ⌨️ Installfest 🖳
-* Friday **6 October, 18:00** at **TODO FIXME**
+* Friday **6 October, 18:00** at **Wunderlist**, Karl-Liebknecht-Str. 34
 
 #### Workshop 💕💯🌈
 * Saturday **7 October**, doors open at **9:00**, starts at 9:30
