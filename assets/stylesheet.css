@@ -193,6 +193,13 @@ section.module.parallax-4 {
   }
 }
 
+.announcement-list-signup {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    max-width: 80%;
+}
+
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
   section.module.parallax {
     background-position: 50% 50%;
