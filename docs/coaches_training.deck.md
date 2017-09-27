@@ -337,7 +337,7 @@ http://clojurebridge-berlin.org/curriculum
 
 ## Please take a look :)
 
-# Some people are trialing a new Curriculum
+# Some people are trialing a new curriculum
 But everyone should still install NightCode for now
 
 # Practical Recap
