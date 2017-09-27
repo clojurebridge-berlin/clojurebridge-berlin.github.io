@@ -20,7 +20,7 @@ It helps to have a whiteboard or those giant sticky notes for the discussions if
 
 # Code of Conduct
 
-The Berlin Code of Conduct ([berlincodeofconduct.org](berlincodeofconduct.org))  outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+The Berlin Code of Conduct ([berlincodeofconduct.org](berlincodeofconduct.org)) outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
 ### Expected Behavior
 
@@ -228,7 +228,6 @@ DISCUSS!
 * Remember people's backgrounds (Javascript, Ruby, Java, HTML/CSS,) and relate where possible.
 * Don't be afraid to use metaphors. If they are a cook, try a cooking analogy.
 
-
 # Technical Capability (More Ideas)
 #### Encourage collaboration and interaction
 * Explicitly encourage students to try to answer each other's questions.
@@ -241,7 +240,6 @@ DISCUSS!
 * If they aren't getting a concept, avoid anything that might shame them.
 * Don't be surprised when someone hasn't heard of something before.
 * Don't grab anyone's keyboard. Avoid taking over unless you think it's *really* necessary. Ask before you do. "Mind if I drive for a sec?" But really, don't.
-
 
 # Technical Capability (Even More Ideas)
 
