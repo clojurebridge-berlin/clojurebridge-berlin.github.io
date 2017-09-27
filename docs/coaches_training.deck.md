@@ -306,10 +306,9 @@ The Berlin Code of Conduct outlines our expectations for all those who participa
 
 # Coaching: Build a Team
 
-* ClojureBridge normally makes a distinction between coaches and TAs (teaching assistants).
 * We will try to form groups with two coaches per group.
 * You can decide on one coach to take the lead, or you can tag-team.
-* There will also be some "floating" TAs that can go around and help.
+* There will also be some "floating" coaches that can go around and help.
 
 # Coaching Dynamics (Ideas)
 
@@ -325,8 +324,21 @@ The Berlin Code of Conduct outlines our expectations for all those who participa
 * Co-coaches can help people who get lost.
 * If someone falls behind, the co-coach can take them aside to do some 1-on-1.
 
+# The Curriculum
+* Most people will go through the curriculum on our web page
 
+http://clojurebridge-berlin.org/curriculum
 
+### It's a slideshow that goes through the concepts of:
+* values
+* data structures
+* functions
+* control logic
+
+## Please take a look :)
+
+# Some people are trialing a new Curriculum
+But everyone should still install NightCode for now
 
 # Practical Recap
 
