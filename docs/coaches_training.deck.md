@@ -227,22 +227,6 @@ DISCUSS!
 * please don't assume anybody's gender
 * refrain from gender specific terms like "hey guys", "hello ladies"
 
-# Social Comfort (Even More Ideas)
-#### Represent the diverse and welcoming community we stand for
-* Don't mock other languages or technologies.
-* Leave your nerdy flame wars at the door.
-* Windows is fine. PHP is fine. Javascript is fine.
-* Be genuinely interested in people's experiences. ("You built something? That's cool. What does it do?")
-* Appreciate that different technologies have different trade-offs. Being easily accessible is one of them.
-
-# Code of Conduct Violations
-
-The Berlin Code of Conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
-
-#### Q: How do I react if an attendee complains about CoC violation?
-#### A: Bring them to an orga-team member
-
-
 # Technical Capability (Ideas)
 
 #### Being confused is normal
@@ -313,8 +297,12 @@ The Berlin Code of Conduct outlines our expectations for all those who participa
 * When you ask a question, wait TEN WHOLE SECONDS before saying anything else. People need time to think.
 * Don't let the most advanced students dictate the pacing or answer all the questions.
 
+# Code of Conduct Violations
 
+The Berlin Code of Conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
+#### Q: How do I react if an attendee complains about CoC violation?
+#### A: Bring them to an orga-team member
 
 # Coaching: Build a Team
 
