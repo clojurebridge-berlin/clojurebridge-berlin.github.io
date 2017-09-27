@@ -171,6 +171,42 @@ How to make your class awesome? We created some arbitrary categories for discuss
 
 DISCUSS!
 
+# Discussion (Do you know what's up?)
+
+#### How can you help people feel like you know what's going on?
+#### What are things you can do to help the students trust you?
+#### What are some things to avoid?
+
+DISCUSS!
+
+# Discussion: Technical Capability
+### How can you help people feel technically capable?
+### What kinds of insecurities might your student have?
+### How can you bolster their confidence?
+
+DISCUSS!
+
+# Discussion: Challenges
+Talk about what problems you might anticipate, and what to do about them.
+
+#### Some issues:
+* Student is in the wrong class level
+* Student is disruptive
+* Student is disengaged
+
+DISCUSS!
+
+# Discussion: Coaching
+
+#### What are the benefits of having two coaches in a group?
+#### How can you divide the roles between the coaches?
+#### How can you get a good dynamic between the whole team, both attendees and coaches?
+
+DISCUSS!
+
+# What we came up with
+* So now you've been through these discussions, this is what we came up with!
+
 # Social Comfort (Ideas)
 
 #### Introductions
@@ -205,14 +241,6 @@ The Berlin Code of Conduct outlines our expectations for all those who participa
 
 #### Q: How do I react if an attendee complains about CoC violation?
 #### A: Bring them to an orga-team member
-
-
-# Discussion: Technical Capability
-### How can you help people feel technically capable?
-### What kinds of insecurities might your student have?
-### How can you bolster their confidence?
-
-DISCUSS!
 
 
 # Technical Capability (Ideas)
@@ -253,14 +281,6 @@ DISCUSS!
 * Explain the big picture of a command *before* they type it in.
   * i.e., before typing the command to deploy to Heroku, explain the difference between localhost and Heroku.
 
-# Discussion (Do you know what's up?)
-
-#### How can you help people feel like you know what's going on?
-#### What are things you can do to help the students trust you?
-#### What are some things to avoid?
-
-DISCUSS!
-
 # Know What's Up (Ideas)
 #### Know what's going on
 
@@ -293,23 +313,8 @@ DISCUSS!
 * When you ask a question, wait TEN WHOLE SECONDS before saying anything else. People need time to think.
 * Don't let the most advanced students dictate the pacing or answer all the questions.
 
-# Discussion: Challenges
-Talk about what problems you might anticipate, and what to do about them.
 
-#### Some issues:
-* Student is in the wrong class level
-* Student is disruptive
-* Student is disengaged
 
-DISCUSS!
-
-# Discussion: Coaching
-
-#### What are the benefits of having two coaches in a group?
-#### How can you divide the roles between the coaches?
-#### How can you get a good dynamic between the whole team, both attendees and coaches?
-
-DISCUSS!
 
 # Coaching: Build a Team
 
@@ -332,13 +337,8 @@ DISCUSS!
 * Co-coaches can help people who get lost.
 * If someone falls behind, the co-coach can take them aside to do some 1-on-1.
 
-# Discussion: Comprehension
 
-#### How can you tell if they understand the words you're saying?
-#### What are good questions to ask to check comprehension?
-#### What did your favorite coaches do to gauge understanding?
 
-DISCUSS!
 
 # Practical Recap
 
