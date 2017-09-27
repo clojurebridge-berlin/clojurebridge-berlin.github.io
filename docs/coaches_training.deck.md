@@ -89,6 +89,20 @@ Please actually create and run a Quil project, so all dependencies are downloade
 * Do NOT say bad things about Windows, even if it's frustrating.
 * If you're not sure about something, grab another volunteer.
 
+# On that note...
+
+* Don't be negative about technologies, even if you're certain they're the work of the devil
+* PHP is fine, Windows is fine, VisualBasic is fine
+* Appreciate that different technologies have different trade-offs. Being easily accessible is one of them.
+
+
+# Try to suppress your (understandable) culturally-influenced sexism
+* Don't hit on people. No sexual advances. This extends to the after-party.
+* Don't make sexist jokes. Or racist, classist, or ableist jokes. Call people out if they do. A simple "That's not funny" and moving on quickly with the conversation will often suffice.
+* Don't make gender-based generalizations ("Women are better at X, because ...")
+* Don't make references to people's bodies or state your opinion of them.
+* Don't use slurs.
+
 # Typical ClojureBridge Schedule
 
 * Friday, 6-10pm-ish: **Installfest** <br>get set up, meet the fellow attendees, with some nice food and drinks
@@ -169,12 +183,6 @@ DISCUSS!
 * Get people talking. The more comfortable they are at talking, the more likely they'll speak up when they don't understand something, or to answer someone else's question.
 
 # Social Comfort (More Ideas)
-#### Try to suppress your (understandable) culturally-influenced sexism
-* Don't hit on people. No sexual advances. None. Even at the after-party.
-* Don't make sexist jokes. Or racist, classist, or ableist jokes. Call people out if they do. A simple "That's not funny" and moving on quickly with the conversation will often suffice.
-* Don't make gender-based generalizations ("Women are better at X, because ...")
-* Don't make references to people's bodies or state your opinion of them.
-* Don't use slurs.
 
 # Social Comfort (pay attention to pronouns)
 
