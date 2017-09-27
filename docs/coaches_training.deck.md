@@ -45,15 +45,10 @@ We're making tech more diverse and more welcoming!
 
 # Introductions
 ### Who are you?
-* What's your name?
-* What are your pronouns?
-* Have you been to a ClojureBridge or similar workshops before? How many?
-* What's your favorite place in Berlin?
-* What's the most non-coding thing you do?
+* What's your name and pronouns?
+* Have you been to a ClojureBridge or similar workshops before?
 
 # What's a ClojureBridge?
-
-Raise your hand if you've been to a workshop before!
 
 ### RailsBridge Fun Facts
 
@@ -85,7 +80,7 @@ We use the NightCode editor. Of course if people have their own preference then 
 
 NightCode is pretty easy to install, as it's just an executable JAR. We'll have a couple thumb drives to go around.
 
-Please actually create and run a Quil project, so all dependencies are downloaded and available.
+Please actually create and run a Quil project, so all dependencies are downloaded and available – this has caused problems before!
 
 #### Keep in mind:
 
