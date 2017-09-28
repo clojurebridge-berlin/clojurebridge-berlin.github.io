@@ -47,6 +47,7 @@ We're making tech more diverse and more welcoming!
 ### Who are you?
 * What's your name and pronouns?
 * Have you been to a ClojureBridge or similar workshops before?
+* What's your current favourite restaurant?
 
 # What's a ClojureBridge?
 
@@ -334,6 +335,8 @@ http://clojurebridge-berlin.org/curriculum
 * data structures
 * functions
 * control logic
+
+* Then followed by people playing with graphical programming in Quil
 
 ## Please take a look :)
 
