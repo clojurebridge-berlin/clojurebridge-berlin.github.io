@@ -97,10 +97,10 @@ Please actually create and run a Quil project, so all dependencies are downloade
 * Appreciate that different technologies have different trade-offs. Being easily accessible is one of them.
 
 
-# Try to suppress your (understandable) culturally-influenced sexism
+# Try to suppress your culturally-influenced sexism
 * Don't hit on people. No sexual advances. This extends to the after-party.
 * Don't make sexist jokes. Or racist, classist, or ableist jokes. Call people out if they do. A simple "That's not funny" and moving on quickly with the conversation will often suffice.
-* Don't make gender-based generalizations ("Women are better at X, because ...")
+* Don't make gender-based generalizations, even 'positive' ones ("Women are better at X, because ...")
 * Don't make references to people's bodies or state your opinion of them.
 * Don't use slurs.
 
@@ -275,7 +275,7 @@ DISCUSS!
 * Let them know they can hang around and socialize afterwards
 
 #### Establish a few ground rules
-* Questions are always welcome, even if the student thinks it might be dumb. "That's a **GREAT** question"
+* Questions are always welcome. "That's a **GREAT** question"
 * Explain that if someone has trouble, the coaches will help troubleshoot.
 * If anyone wants to switch classes, tell them they should feel TOTALLY COMFORTABLE switching at any point.
 * Have breaks! Eat a muffin! Have a look at what other groups are doing!
