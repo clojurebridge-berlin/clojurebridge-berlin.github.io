@@ -1,0 +1,13 @@
+{% for person in include.people %}
+  <div class="col-md-4 col-sm-2 col-xs-4 team-member">
+    <img src="/images/headshots/{{ person.image }}">
+    <a href={{ person.url }}>{{ person.name }}</a>
+  </div>
+{% endfor %}
+
+<script>
+  var team = document.querySelector('.team');
+  for (var i = team.children.length; i >= 0; i--) {
+    team.appendChild(team.children[Math.random() * i | 0]);
+  }
+</script>

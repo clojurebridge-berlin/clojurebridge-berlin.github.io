@@ -40,11 +40,18 @@ section.module.content {
   text-align: center;
 }
 
-.team {
-  margin-left: 15%;
+.team-member {
+  margin-bottom: 25px
+}
+
+.team-member img {
   border-radius: 50%;
-  width: 70%;
-  margin-bottom: 10%;
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+.team-alumni a:not(:last-child)::after {
+  content: ", "
 }
 
 .arrow {

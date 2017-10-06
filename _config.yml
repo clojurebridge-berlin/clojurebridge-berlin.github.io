@@ -20,3 +20,61 @@ url: "http://clojurebridge-berlin.github.io" # the base hostname & protocol for 
 
 # Build settings
 markdown: kramdown
+
+team:
+  - name: Ben
+    image: ben.png
+    url: https://twitter.com/socksy
+  - name: Franka
+    image: franka.jpg
+    url: http://franka.tech
+  - name: Danielle
+    image: dani.jpg
+    url: https://twitter.com/dantoml
+  - name: Dave
+    image: dave.png
+    url: http://daveliepmann.com
+  - name: Johanna
+    image: johanna.jpg
+    url: https://twitter.com/JohanannC
+  - name: Julia
+    image: julia.jpg
+    url: https://twitter.com/anderspree
+  - name: Lisa
+    image: lislis.png
+    url: http://lislis.de
+  - name: Nils
+    image: nils.png
+    url: http://nils-blum-oeste.net
+  - name: Saskia
+    image: saskia.jpg
+    url: http://saskialindner.com
+  - name: Tibor
+    image: tibor.jpg
+    url: http://codebeige.net
+  - name: Anna
+    image: anna.jpg
+    url:
+  - name: daiyi
+    image: daiyi.jpg
+    url: https://twitter.com/daiyitastic
+
+team-alumni:
+  - name: Arne
+    url: https://twitter.com/plexus
+    image:
+  - name: Bettina
+    url: https://twitter.com/thatbettina
+    image:
+  - name: Jelle
+    url: https://twitter.com/jellea
+    image:
+  - name: Malwine
+    url: https://twitter.com/malweene
+    image:
+  - name: Martin
+    url: https://twitter.com/martinklepsch
+    image:
+  - name: Nicola
+    url: https://twitter.com/nicsnet
+    image:
